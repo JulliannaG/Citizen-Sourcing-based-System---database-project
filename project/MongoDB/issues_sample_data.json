@@ -1,0 +1,2953 @@
+[
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a101"
+    },
+    "issue_id": 1,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a201"
+      }
+    ],
+    "description": "Massive potholes on the main road, hazardous to local traffic, especially motorcycles.",
+    "category": "Road Infrastructure",
+    "reported_at": {
+      "$date": "2023-01-05T10:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0450,
+      "longitude": 100.6071,
+      "name": "Rangsit, Phahon Yothin Road, Soi 1"
+    },
+    "media": [
+      "https://storage.example.com/pothole_rangsit_1.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Suthep",
+      "last_name": "Petchara",
+      "thai_id": "85021578901"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a102"
+    },
+    "issue_id": 2,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a202"
+      },
+      {
+        "$oid": "65e68372a5b81a2f98f4a203"
+      }
+    ],
+    "description": "Traffic light malfunction at the Rangsit-Nakhon Nayok intersection, causing major rush-hour delays.",
+    "category": "Traffic and Transport",
+    "reported_at": {
+      "$date": "2023-01-15T14:30:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0080,
+      "longitude": 100.6270,
+      "name": "Thanyaburi, Rangsit-Nakhon Nayok Intersection"
+    },
+    "media": [
+      "https://storage.example.com/trafficlight_thanyaburi.mp4"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Araya",
+      "last_name": "Wongsa",
+      "thai_id": "79082012345"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a103"
+    },
+    "issue_id": 3,
+    "solutions": [],
+    "description": "Illegal garbage dumping in the undeveloped plot near the Klong Luang industrial estate, terrible smell.",
+    "category": "Environment and Cleanliness",
+    "reported_at": {
+      "$date": "2023-01-28T09:15:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0400,
+      "longitude": 100.6700,
+      "name": "Klong Luang, Industrial Estate Side Road"
+    },
+    "media": [
+      "https://storage.example.com/dumpsite_klongluang.jpg"
+    ],
+    "status": "pending",
+    "citizen": {
+      "first_name": "Boonma",
+      "last_name": "Rattana",
+      "thai_id": "90050167890"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a104"
+    },
+    "issue_id": 4,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a204"
+      },
+      {
+        "$oid": "65e68372a5b81a2f98f4a205"
+      }
+    ],
+    "description": "Broken street lamp near the main entrance to Thammasat University, poor visibility for students at night.",
+    "category": "Safety and Lighting",
+    "reported_at": {
+      "$date": "2023-02-05T19:45:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0680,
+      "longitude": 100.6150,
+      "name": "Klong Luang, Thammasat University Entrance"
+    },
+    "media": [],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Wichai",
+      "last_name": "Saelee",
+      "thai_id": "78112233445"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a105"
+    },
+    "issue_id": 5,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a206"
+      }
+    ],
+    "description": "Clogged storm drain near 'Klong 3 Road', causing road flooding after heavy rain.",
+    "category": "Water/Drainage Infrastructure",
+    "reported_at": {
+      "$date": "2023-02-18T11:20:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0200,
+      "longitude": 100.6900,
+      "name": "Klong Luang, Klong 3 Road"
+    },
+    "media": [
+      "https://storage.example.com/flooding_klong3.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Chantana",
+      "last_name": "Karnchanachai",
+      "thai_id": "92010145678"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a106"
+    },
+    "issue_id": 6,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a207"
+      }
+    ],
+    "description": "Damaged bench and trash can in the 'Future Park Rangsit' bus stop area. Vandalism suspected.",
+    "category": "Public Furniture",
+    "reported_at": {
+      "$date": "2023-03-01T07:50:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0200,
+      "longitude": 100.6120,
+      "name": "Rangsit, Future Park Bus Stop"
+    },
+    "media": [
+      "https://storage.example.com/vandalism_futurepark.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Anusorn",
+      "last_name": "Jaisamut",
+      "thai_id": "65031098765"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a107"
+    },
+    "issue_id": 7,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a208"
+      }
+    ],
+    "description": "Noise from late-night deliveries to the nearby minimart in a residential area.",
+    "category": "Noise and Disturbance",
+    "reported_at": {
+      "$date": "2023-03-15T01:00:00.000Z"
+    },
+    "location": {
+      "latitude": 13.9700,
+      "longitude": 100.5600,
+      "name": "Muang Pathum Thani, Ratchathani Estate"
+    },
+    "media": [
+      "https://storage.example.com/noise_ratchathani.mp3"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Jinda",
+      "last_name": "Thongsa",
+      "thai_id": "81072554321"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a108"
+    },
+    "issue_id": 8,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a209"
+      }
+    ],
+    "description": "Missing pedestrian crossing sign near the main Lam Luk Ka market.",
+    "category": "Traffic and Transport",
+    "reported_at": {
+      "$date": "2023-04-01T16:10:00.000Z"
+    },
+    "location": {
+      "latitude": 13.9600,
+      "longitude": 100.7500,
+      "name": "Lam Luk Ka, Market Intersection"
+    },
+    "media": [],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Sompong",
+      "last_name": "Khamdee",
+      "thai_id": "88120377889"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a109"
+    },
+    "issue_id": 9,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a201"
+      }
+    ],
+    "description": "Damaged water main on the old side road, affecting water supply to the area.",
+    "category": "Water/Drainage Infrastructure",
+    "reported_at": {
+      "$date": "2023-04-12T06:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0400,
+      "longitude": 100.5200,
+      "name": "Sam Khok, Old Town Side Road"
+    },
+    "media": [
+      "https://storage.example.com/watermain_samkhok.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Malee",
+      "last_name": "Sriboon",
+      "thai_id": "75061400112"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a10a"
+    },
+    "issue_id": 10,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a210"
+      },
+      {
+        "$oid": "65e68372a5b81a2f98f4a211"
+      }
+    ],
+    "description": "Persistent issue with illegal roadside vendors blocking the pedestrian walkway near the market.",
+    "category": "Municipal Law Enforcement",
+    "reported_at": {
+      "$date": "2023-04-25T13:40:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0050,
+      "longitude": 100.6100,
+      "name": "Rangsit Market, Pedestrian Walkway"
+    },
+    "media": [],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Preecha",
+      "last_name": "Chaiyan",
+      "thai_id": "83042922334"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a10b"
+    },
+    "issue_id": 11,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a212"
+      }
+    ],
+    "description": "Overgrown tree branches obscuring street signs on the main Klong 1 road.",
+    "category": "Urban Greenery",
+    "reported_at": {
+      "$date": "2023-05-08T10:30:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0090,
+      "longitude": 100.6400,
+      "name": "Thanyaburi, Klong 1 Road"
+    },
+    "media": [
+      "https://storage.example.com/branch_klong1.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Siriporn",
+      "last_name": "Tang",
+      "thai_id": "95081811223"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a10c"
+    },
+    "issue_id": 12,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a203"
+      }
+    ],
+    "description": "Damaged pavement (loose tiles) near the school, severe risk of tripping for children.",
+    "category": "Pedestrian Infrastructure",
+    "reported_at": {
+      "$date": "2023-05-20T08:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0450,
+      "longitude": 100.6350,
+      "name": "Klong Luang, Prachathipat School Road"
+    },
+    "media": [
+      "https://storage.example.com/pavement_school.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Boonruen",
+      "last_name": "Sakorn",
+      "thai_id": "84091133445"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a10d"
+    },
+    "issue_id": 13,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a213"
+      }
+    ],
+    "description": "Excessively long waiting time for the pedestrian green light, despite no approaching vehicles.",
+    "category": "Traffic and Transport",
+    "reported_at": {
+      "$date": "2023-06-01T17:35:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0200,
+      "longitude": 100.6120,
+      "name": "Rangsit, Future Park Pedestrian Crossing"
+    },
+    "media": [],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Naree",
+      "last_name": "Suthamma",
+      "thai_id": "93022755667"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a10e"
+    },
+    "issue_id": 14,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a214"
+      }
+    ],
+    "description": "Heavy graffiti damage on the facade of the Mueang Pathum Thani District Office.",
+    "category": "Vandalism and Aesthetics",
+    "reported_at": {
+      "$date": "2023-06-15T12:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0150,
+      "longitude": 100.5250,
+      "name": "Mueang Pathum Thani, District Office"
+    },
+    "media": [
+      "https://storage.example.com/graffiti_mueang.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Veera",
+      "last_name": "Phromma",
+      "thai_id": "70100588990"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a10f"
+    },
+    "issue_id": 15,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a210"
+      }
+    ],
+    "description": "Overflowing and uncollected segregated waste bins in the Thanyaburi residential area.",
+    "category": "Environment and Cleanliness",
+    "reported_at": {
+      "$date": "2023-07-01T09:00:00.000Z"
+    },
+    "location": {
+      "latitude": 13.9900,
+      "longitude": 100.6500,
+      "name": "Thanyaburi, Residential Soi 5"
+    },
+    "media": [
+      "https://storage.example.com/bins_thanyaburi.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Somsri",
+      "last_name": "Inthira",
+      "thai_id": "91031766778"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a110"
+    },
+    "issue_id": 16,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a206"
+      }
+    ],
+    "description": "Standing water on the newly constructed bike path due to inadequate drainage.",
+    "category": "Cycling Infrastructure",
+    "reported_at": {
+      "$date": "2023-07-15T14:15:00.000Z"
+    },
+    "location": {
+      "latitude": 13.9950,
+      "longitude": 100.7200,
+      "name": "Lam Luk Ka, Bike Path 3312"
+    },
+    "media": [
+      "https://storage.example.com/water_lamlukka.mp4"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Pairoj",
+      "last_name": "Sukhum",
+      "thai_id": "87052011223"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a111"
+    },
+    "issue_id": 17,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a207"
+      }
+    ],
+    "description": "Cracked wooden bench in the municipal park. Safety hazard for users.",
+    "category": "Public Furniture",
+    "reported_at": {
+      "$date": "2023-08-01T11:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0010,
+      "longitude": 100.5200,
+      "name": "Mueang Pathum Thani, Municipal Park"
+    },
+    "media": [
+      "https://storage.example.com/bench_mueang.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Alisa",
+      "last_name": "Chaiwong",
+      "thai_id": "82110499887"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a112"
+    },
+    "issue_id": 18,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a215"
+      }
+    ],
+    "description": "Lack of safety railing near the steep Klong bank next to the community playground.",
+    "category": "Public Safety",
+    "reported_at": {
+      "$date": "2023-08-15T15:45:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0700,
+      "longitude": 100.7000,
+      "name": "Klong Luang, Klong 6 Bank Playground"
+    },
+    "media": [],
+    "status": "in progress",
+    "citizen": {
+      "first_name": "Chaiyot",
+      "last_name": "Wichian",
+      "thai_id": "77012344556"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a113"
+    },
+    "issue_id": 19,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a216"
+      }
+    ],
+    "description": "Damaged surface of the community basketball court, numerous puddles after rain.",
+    "category": "Recreation and Sport",
+    "reported_at": {
+      "$date": "2023-09-01T13:20:00.000Z"
+    },
+    "location": {
+      "latitude": 13.9800,
+      "longitude": 100.6800,
+      "name": "Thanyaburi, Community Sport Field"
+    },
+    "media": [
+      "https://storage.example.com/court_thanyaburi.jpg"
+    ],
+    "status": "in progress",
+    "citizen": {
+      "first_name": "Supaporn",
+      "last_name": "Jantima",
+      "thai_id": "96041000112"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a114"
+    },
+    "issue_id": 20,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a210"
+      }
+    ],
+    "description": "No trash bin at the corner of a busy street near Rangsit Future Park, leading to heavy littering.",
+    "category": "Environment and Cleanliness",
+    "reported_at": {
+      "$date": "2023-09-15T10:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0200,
+      "longitude": 100.6120,
+      "name": "Rangsit, Phahon Yothin Road Corner"
+    },
+    "media": [],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Kamala",
+      "last_name": "Somboon",
+      "thai_id": "89050512345"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a115"
+    },
+    "issue_id": 21,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a206"
+      }
+    ],
+    "description": "Unpleasant sewage smell emanating from a manhole cover on a major road.",
+    "category": "Water/Drainage Infrastructure",
+    "reported_at": {
+      "$date": "2023-10-01T16:50:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0500,
+      "longitude": 100.6100,
+      "name": "Klong Luang, Phahon Yothin Soi 5"
+    },
+    "media": [
+      "https://storage.example.com/manhole_klongluang.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Niran",
+      "last_name": "Phanom",
+      "thai_id": "75121267890"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a116"
+    },
+    "issue_id": 22,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a217"
+      }
+    ],
+    "description": "Large chemical spill in the industrial zone parking lot, contaminating the ground.",
+    "category": "Environment and Cleanliness",
+    "reported_at": {
+      "$date": "2023-10-15T09:30:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0400,
+      "longitude": 100.6700,
+      "name": "Klong Luang, Industrial Zone Parking"
+    },
+    "media": [
+      "https://storage.example.com/spill_klongluang.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Preeya",
+      "last_name": "Surin",
+      "thai_id": "90070123456"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a117"
+    },
+    "issue_id": 23,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a218"
+      },
+      {
+        "$oid": "65e68372a5b81a2f98f4a219"
+      }
+    ],
+    "description": "Blown fuse in the street lighting power box, a large residential area is unlit.",
+    "category": "Safety and Lighting",
+    "reported_at": {
+      "$date": "2023-11-01T20:00:00.000Z"
+    },
+    "location": {
+      "latitude": 13.9800,
+      "longitude": 100.6200,
+      "name": "Thanyaburi, Residential Area 2"
+    },
+    "media": [],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Nitaya",
+      "last_name": "Adisorn",
+      "thai_id": "80032098765"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a118"
+    },
+    "issue_id": 24,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a220"
+      }
+    ],
+    "description": "Cracked concrete slabs in the community playground, sharp edges causing injuries.",
+    "category": "Recreation and Sport",
+    "reported_at": {
+      "$date": "2023-11-15T10:40:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0500,
+      "longitude": 100.6400,
+      "name": "Klong Luang, Community Park 3"
+    },
+    "media": [
+      "https://storage.example.com/playground_klongluang.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Panya",
+      "last_name": "Chompoo",
+      "thai_id": "76110854321"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a119"
+    },
+    "issue_id": 25,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a209"
+      }
+    ],
+    "description": "Damaged 'No Entry' sign, allowing vehicles onto the pedestrian street of the Old Market.",
+    "category": "Traffic and Transport",
+    "reported_at": {
+      "$date": "2023-12-01T15:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0250,
+      "longitude": 100.5200,
+      "name": "Mueang Pathum Thani, Old Market Street"
+    },
+    "media": [
+      "https://storage.example.com/sign_oldmarket.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Kanya",
+      "last_name": "Suwan",
+      "thai_id": "94062533445"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a11a"
+    },
+    "issue_id": 26,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a221"
+      }
+    ],
+    "description": "No lighting at the crosswalk on the main Rattanathibet Road.",
+    "category": "Safety and Lighting",
+    "reported_at": {
+      "$date": "2023-12-15T18:30:00.000Z"
+    },
+    "location": {
+      "latitude": 13.9750,
+      "longitude": 100.5500,
+      "name": "Mueang Pathum Thani, Rattanathibet Crossing"
+    },
+    "media": [
+      "https://storage.example.com/dark_crossing_mueang.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Narong",
+      "last_name": "Wichian",
+      "thai_id": "83011055667"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a11b"
+    },
+    "issue_id": 27,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a212"
+      }
+    ],
+    "description": "Uprooted plants and damaged flower bed in the municipal park.",
+    "category": "Urban Greenery",
+    "reported_at": {
+      "$date": "2024-01-01T07:10:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0300,
+      "longitude": 100.5900,
+      "name": "Rangsit, Public Park"
+    },
+    "media": [
+      "https://storage.example.com/flowerbed_rangsit.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Pornthip",
+      "last_name": "Chanok",
+      "thai_id": "92091577889"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a11c"
+    },
+    "issue_id": 28,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a222"
+      }
+    ],
+    "description": "Severely damaged surface of the access road to the industrial residential estate.",
+    "category": "Road Infrastructure",
+    "reported_at": {
+      "$date": "2024-01-15T12:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0450,
+      "longitude": 100.6750,
+      "name": "Klong Luang, Industrial Residential Access Road"
+    },
+    "media": [
+      "https://storage.example.com/road_industrial.jpg"
+    ],
+    "status": "in progress",
+    "citizen": {
+      "first_name": "Chai",
+      "last_name": "Deejai",
+      "thai_id": "78020500112"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a11d"
+    },
+    "issue_id": 29,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a218"
+      }
+    ],
+    "description": "Burnt out light bulb in the lamp illuminating the pedestrian underpass near the market.",
+    "category": "Safety and Lighting",
+    "reported_at": {
+      "$date": "2024-02-01T19:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0200,
+      "longitude": 100.6120,
+      "name": "Rangsit, Market Underpass"
+    },
+    "media": [],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Patama",
+      "last_name": "Kaset",
+      "thai_id": "91051511223"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a11e"
+    },
+    "issue_id": 30,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a217"
+      },
+      {
+        "$oid": "65e68372a5b81a2f98f4a223"
+      }
+    ],
+    "description": "Accumulation of trash and old tires on abandoned land near the university.",
+    "category": "Environment and Cleanliness",
+    "reported_at": {
+      "$date": "2024-02-15T11:30:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0650,
+      "longitude": 100.6100,
+      "name": "Klong Luang, Thammasat Area"
+    },
+    "media": [
+      "https://storage.example.com/tires_thammasat.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Thongchai",
+      "last_name": "Saenkhot",
+      "thai_id": "85032033445"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a11f"
+    },
+    "issue_id": 31,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a201"
+      }
+    ],
+    "description": "Major structural damage to the footbridge over Klong 1.",
+    "category": "Public Safety",
+    "reported_at": {
+      "$date": "2024-03-01T08:45:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0100,
+      "longitude": 100.6300,
+      "name": "Thanyaburi, Klong 1 Footbridge"
+    },
+    "media": [
+      "https://storage.example.com/bridge_klong1.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Samran",
+      "last_name": "Kiat",
+      "thai_id": "86040466778"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a120"
+    },
+    "issue_id": 32,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a224"
+      }
+    ],
+    "description": "Excessive speed of traffic on a residential street after new road construction.",
+    "category": "Traffic and Transport",
+    "reported_at": {
+      "$date": "2024-03-15T16:00:00.000Z"
+    },
+    "location": {
+      "latitude": 13.9600,
+      "longitude": 100.7500,
+      "name": "Lam Luk Ka, Soi 1 Residential"
+    },
+    "media": [],
+    "status": "in progress",
+    "citizen": {
+      "first_name": "Chompoo",
+      "last_name": "Chan",
+      "thai_id": "79031022334"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a121"
+    },
+    "issue_id": 33,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a206"
+      }
+    ],
+    "description": "Clogged roadside gutter, causing foul standing water and mosquito breeding.",
+    "category": "Water/Drainage Infrastructure",
+    "reported_at": {
+      "$date": "2024-04-01T10:30:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0200,
+      "longitude": 100.6120,
+      "name": "Rangsit, Roadside Gutter"
+    },
+    "media": [
+      "https://storage.example.com/gutter_rangsit.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Sombat",
+      "last_name": "Wichian",
+      "thai_id": "81100577889"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a122"
+    },
+    "issue_id": 34,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a225"
+      }
+    ],
+    "description": "Damaged and rusted public gym equipment in the park.",
+    "category": "Recreation and Sport",
+    "reported_at": {
+      "$date": "2024-04-15T15:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0010,
+      "longitude": 100.5200,
+      "name": "Mueang Pathum Thani, Park Gym"
+    },
+    "media": [
+      "https://storage.example.com/gym_mueang.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Pichai",
+      "last_name": "Saenkhot",
+      "thai_id": "76081233445"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a123"
+    },
+    "issue_id": 35,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a215"
+      }
+    ],
+    "description": "Fallen tree branch blocking the sidewalk after a storm near the river.",
+    "category": "Urban Greenery",
+    "reported_at": {
+      "$date": "2024-05-01T06:00:00.000Z"
+    },
+    "location": {
+      "latitude": 13.9700,
+      "longitude": 100.5600,
+      "name": "Muang Pathum Thani, Riverside"
+    },
+    "media": [
+      "https://storage.example.com/branch_riverside.jpg"
+    ],
+    "status": "in progress",
+    "citizen": {
+      "first_name": "Supaporn",
+      "last_name": "Jantima",
+      "thai_id": "96041000112"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a124"
+    },
+    "issue_id": 36,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a209"
+      }
+    ],
+    "description": "Missing pedestrian crossing sign near the main Lam Luk Ka school.",
+    "category": "Traffic and Transport",
+    "reported_at": {
+      "$date": "2024-05-15T09:10:00.000Z"
+    },
+    "location": {
+      "latitude": 13.9600,
+      "longitude": 100.7500,
+      "name": "Lam Luk Ka, Main School"
+    },
+    "media": [],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Sompong",
+      "last_name": "Khamdee",
+      "thai_id": "88120377889"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a125"
+    },
+    "issue_id": 37,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a201"
+      }
+    ],
+    "description": "Large sinkhole opening up in the middle of a side road near Lat Lum Kaeo.",
+    "category": "Road Infrastructure",
+    "reported_at": {
+      "$date": "2024-06-01T14:20:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0550,
+      "longitude": 100.4500,
+      "name": "Lat Lum Kaeo, Side Road"
+    },
+    "media": [
+      "https://storage.example.com/sinkhole_latlumkaeo.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Malee",
+      "last_name": "Sriboon",
+      "thai_id": "75061400112"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a126"
+    },
+    "issue_id": 38,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a226"
+      }
+    ],
+    "description": "Foul odor from a blocked sewer line next to the Khlong Nung market.",
+    "category": "Water/Drainage Infrastructure",
+    "reported_at": {
+      "$date": "2024-06-15T11:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0400,
+      "longitude": 100.6700,
+      "name": "Klong Luang, Klong Nung Market"
+    },
+    "media": [],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Suthep",
+      "last_name": "Petchara",
+      "thai_id": "85021578901"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a127"
+    },
+    "issue_id": 39,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a213"
+      }
+    ],
+    "description": "Traffic light synchronization issue causing excessive queuing on the main highway.",
+    "category": "Traffic and Transport",
+    "reported_at": {
+      "$date": "2024-07-01T17:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0300,
+      "longitude": 100.6100,
+      "name": "Rangsit, Phahon Yothin Intersection"
+    },
+    "media": [
+      "https://storage.example.com/traffic_phahonyothin.mp4"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Araya",
+      "last_name": "Wongsa",
+      "thai_id": "79082012345"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a128"
+    },
+    "issue_id": 40,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a214"
+      }
+    ],
+    "description": "Heavy graffiti covering a newly painted pedestrian bridge near the river.",
+    "category": "Vandalism and Aesthetics",
+    "reported_at": {
+      "$date": "2024-07-15T14:30:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0100,
+      "longitude": 100.5200,
+      "name": "Mueang Pathum Thani, River Bridge"
+    },
+    "media": [
+      "https://storage.example.com/graffiti_riverbridge.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Boonma",
+      "last_name": "Rattana",
+      "thai_id": "90050167890"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a129"
+    },
+    "issue_id": 41,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a227"
+      }
+    ],
+    "description": "Faulty timer on the sprinklers in the municipal park, wasting water during rain.",
+    "category": "Urban Greenery",
+    "reported_at": {
+      "$date": "2024-08-01T09:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0010,
+      "longitude": 100.5200,
+      "name": "Mueang Pathum Thani, Municipal Park"
+    },
+    "media": [
+      "https://storage.example.com/sprinkler_mueang.mp4"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Wichai",
+      "last_name": "Saelee",
+      "thai_id": "78112233445"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a12a"
+    },
+    "issue_id": 42,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a206"
+      }
+    ],
+    "description": "Damage to the sidewalk slab, exposing underlying drainage pipes.",
+    "category": "Pedestrian Infrastructure",
+    "reported_at": {
+      "$date": "2024-08-15T13:10:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0500,
+      "longitude": 100.6400,
+      "name": "Klong Luang, University Road"
+    },
+    "media": [
+      "https://storage.example.com/sidewalk_klongluang.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Chantana",
+      "last_name": "Karnchanachai",
+      "thai_id": "92010145678"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a12b"
+    },
+    "issue_id": 43,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a207"
+      }
+    ],
+    "description": "Missing lid on a public trash bin, allowing rain in and causing bad odors.",
+    "category": "Public Furniture",
+    "reported_at": {
+      "$date": "2024-09-01T10:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0050,
+      "longitude": 100.6100,
+      "name": "Rangsit Market Area"
+    },
+    "media": [
+      "https://storage.example.com/binlid_rangsit.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Anusorn",
+      "last_name": "Jaisamut",
+      "thai_id": "65031098765"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a12c"
+    },
+    "issue_id": 44,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a228"
+      }
+    ],
+    "description": "Stray dog pack intimidating pedestrians in the park after sunset.",
+    "category": "Public Safety",
+    "reported_at": {
+      "$date": "2024-09-15T18:00:00.000Z"
+    },
+    "location": {
+      "latitude": 13.9700,
+      "longitude": 100.5600,
+      "name": "Muang Pathum Thani, Municipal Park"
+    },
+    "media": [],
+    "status": "in progress",
+    "citizen": {
+      "first_name": "Jinda",
+      "last_name": "Thongsa",
+      "thai_id": "81072554321"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a12d"
+    },
+    "issue_id": 45,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a229"
+      }
+    ],
+    "description": "Faded and dangerous crosswalk markings near a busy market.",
+    "category": "Traffic and Transport",
+    "reported_at": {
+      "$date": "2024-10-01T12:00:00.000Z"
+    },
+    "location": {
+      "latitude": 13.9600,
+      "longitude": 100.7500,
+      "name": "Lam Luk Ka, Main Market"
+    },
+    "media": [
+      "https://storage.example.com/crosswalk_lamlukka.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Sompong",
+      "last_name": "Khamdee",
+      "thai_id": "88120377889"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a12e"
+    },
+    "issue_id": 46,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a222"
+      }
+    ],
+    "description": "Damaged guardrail on the road bridge near the river. Safety concern.",
+    "category": "Road Infrastructure",
+    "reported_at": {
+      "$date": "2024-10-15T15:30:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0150,
+      "longitude": 100.5250,
+      "name": "Mueang Pathum Thani, River Bridge"
+    },
+    "media": [
+      "https://storage.example.com/guardrail_riverbridge.jpg"
+    ],
+    "status": "in progress",
+    "citizen": {
+      "first_name": "Chai",
+      "last_name": "Deejai",
+      "thai_id": "78020500112"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a12f"
+    },
+    "issue_id": 47,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a221"
+      }
+    ],
+    "description": "Street lamp out, causing a dark spot near a popular community hall.",
+    "category": "Safety and Lighting",
+    "reported_at": {
+      "$date": "2024-11-01T21:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0450,
+      "longitude": 100.6071,
+      "name": "Rangsit, Community Hall Road"
+    },
+    "media": [],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Patama",
+      "last_name": "Kaset",
+      "thai_id": "91051511223"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a130"
+    },
+    "issue_id": 48,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a213"
+      }
+    ],
+    "description": "Traffic sign on the central island is obscured by thick foliage.",
+    "category": "Traffic and Transport",
+    "reported_at": {
+      "$date": "2024-11-15T10:45:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0080,
+      "longitude": 100.6270,
+      "name": "Thanyaburi, Rangsit-Nakhon Nayok Road"
+    },
+    "media": [
+      "https://storage.example.com/foliage_thanyaburi.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Thongchai",
+      "last_name": "Saenkhot",
+      "thai_id": "85032033445"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a131"
+    },
+    "issue_id": 49,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a223"
+      }
+    ],
+    "description": "Large amounts of debris from construction site left on the public street.",
+    "category": "Environment and Cleanliness",
+    "reported_at": {
+      "$date": "2024-12-01T14:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0400,
+      "longitude": 100.6700,
+      "name": "Klong Luang, Construction Zone"
+    },
+    "media": [
+      "https://storage.example.com/debris_klongluang.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Somsri",
+      "last_name": "Inthira",
+      "thai_id": "91031766778"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a132"
+    },
+    "issue_id": 50,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a227"
+      }
+    ],
+    "description": "Broken fence around the municipal school complex, unauthorized access possible.",
+    "category": "Public Safety",
+    "reported_at": {
+      "$date": "2024-12-15T09:30:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0150,
+      "longitude": 100.5250,
+      "name": "Mueang Pathum Thani, Municipal School"
+    },
+    "media": [
+      "https://storage.example.com/fence_school.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Pairoj",
+      "last_name": "Sukhum",
+      "thai_id": "87052011223"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a133"
+    },
+    "issue_id": 51,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a203"
+      }
+    ],
+    "description": "Loose manhole cover on a high-speed road, very noisy and dangerous.",
+    "category": "Road Infrastructure",
+    "reported_at": {
+      "$date": "2025-01-01T10:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0500,
+      "longitude": 100.6400,
+      "name": "Klong Luang, Main Highway 3214"
+    },
+    "media": [
+      "https://storage.example.com/manhole_highway.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Chantana",
+      "last_name": "Karnchanachai",
+      "thai_id": "92010145678"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a134"
+    },
+    "issue_id": 52,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a229"
+      }
+    ],
+    "description": "Illegal construction of a vendor stall blocking the main sidewalk.",
+    "category": "Pedestrian Infrastructure",
+    "reported_at": {
+      "$date": "2025-01-15T11:45:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0050,
+      "longitude": 100.6100,
+      "name": "Rangsit Market Entrance"
+    },
+    "media": [
+      "https://storage.example.com/stall_rangsit.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Kanya",
+      "last_name": "Suwan",
+      "thai_id": "94062533445"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a135"
+    },
+    "issue_id": 53,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a215"
+      }
+    ],
+    "description": "Broken swingset in the children's play area.",
+    "category": "Recreation and Sport",
+    "reported_at": {
+      "$date": "2025-02-01T13:00:00.000Z"
+    },
+    "location": {
+      "latitude": 13.9700,
+      "longitude": 100.5600,
+      "name": "Muang Pathum Thani, Community Playground"
+    },
+    "media": [
+      "https://storage.example.com/swingset_mueang.jpg"
+    ],
+    "status": "in progress",
+    "citizen": {
+      "first_name": "Narong",
+      "last_name": "Wichian",
+      "thai_id": "83011055667"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a136"
+    },
+    "issue_id": 54,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a226"
+      }
+    ],
+    "description": "Foul sewage odor coming from a drain cover on the main road.",
+    "category": "Water/Drainage Infrastructure",
+    "reported_at": {
+      "$date": "2025-02-15T10:30:00.000Z"
+    },
+    "location": {
+      "latitude": 13.9800,
+      "longitude": 100.6800,
+      "name": "Thanyaburi, Main Klong Road"
+    },
+    "media": [],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Pornthip",
+      "last_name": "Chanok",
+      "thai_id": "92091577889"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a137"
+    },
+    "issue_id": 55,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a222"
+      }
+    ],
+    "description": "Missing tactile paving for the visually impaired at a major intersection.",
+    "category": "Pedestrian Infrastructure",
+    "reported_at": {
+      "$date": "2025-03-01T08:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0150,
+      "longitude": 100.5250,
+      "name": "Mueang Pathum Thani, Main Intersection"
+    },
+    "media": [
+      "https://storage.example.com/tactile_mueang.jpg"
+    ],
+    "status": "in progress",
+    "citizen": {
+      "first_name": "Chai",
+      "last_name": "Deejai",
+      "thai_id": "78020500112"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a138"
+    },
+    "issue_id": 56,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a204"
+      }
+    ],
+    "description": "Multiple street lights on a long stretch of road are burnt out.",
+    "category": "Safety and Lighting",
+    "reported_at": {
+      "$date": "2025-03-15T19:30:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0200,
+      "longitude": 100.6120,
+      "name": "Rangsit, Klong 2 Road"
+    },
+    "media": [],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Suthep",
+      "last_name": "Petchara",
+      "thai_id": "85021578901"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a139"
+    },
+    "issue_id": 57,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a213"
+      }
+    ],
+    "description": "Faded directional arrows on the road, causing confusion near the roundabout.",
+    "category": "Traffic and Transport",
+    "reported_at": {
+      "$date": "2025-04-01T10:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0500,
+      "longitude": 100.6100,
+      "name": "Klong Luang, Highway Roundabout"
+    },
+    "media": [
+      "https://storage.example.com/arrows_klongluang.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Araya",
+      "last_name": "Wongsa",
+      "thai_id": "79082012345"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a13a"
+    },
+    "issue_id": 58,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a217"
+      }
+    ],
+    "description": "Uncollected trash pile next to a local temple, leading to health concerns.",
+    "category": "Environment and Cleanliness",
+    "reported_at": {
+      "$date": "2025-04-15T11:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0400,
+      "longitude": 100.5200,
+      "name": "Sam Khok, Wat Chedi Thong"
+    },
+    "media": [
+      "https://storage.example.com/trash_wat_samkhok.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Boonma",
+      "last_name": "Rattana",
+      "thai_id": "90050167890"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a13b"
+    },
+    "issue_id": 59,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a222"
+      }
+    ],
+    "description": "Erosion of the riverbank sidewalk after recent heavy rains.",
+    "category": "Road Infrastructure",
+    "reported_at": {
+      "$date": "2025-05-01T14:20:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0250,
+      "longitude": 100.5200,
+      "name": "Mueang Pathum Thani, Riverside Walkway"
+    },
+    "media": [
+      "https://storage.example.com/erosion_riverside.jpg"
+    ],
+    "status": "in progress",
+    "citizen": {
+      "first_name": "Wichai",
+      "last_name": "Saelee",
+      "thai_id": "78112233445"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a13c"
+    },
+    "issue_id": 60,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a226"
+      }
+    ],
+    "description": "Repeated flooding of the main underpass during heavy rainfall.",
+    "category": "Water/Drainage Infrastructure",
+    "reported_at": {
+      "$date": "2025-05-15T16:50:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0200,
+      "longitude": 100.6120,
+      "name": "Rangsit, Main Underpass"
+    },
+    "media": [
+      "https://storage.example.com/underpass_rangsit.mp4"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Chantana",
+      "last_name": "Karnchanachai",
+      "thai_id": "92010145678"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a13d"
+    },
+    "issue_id": 61,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a215"
+      }
+    ],
+    "description": "Overgrown tree branches posing an obstruction to large vehicles on a main industrial road.",
+    "category": "Urban Greenery",
+    "reported_at": {
+      "$date": "2025-06-01T09:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0400,
+      "longitude": 100.6700,
+      "name": "Klong Luang, Industrial Zone Road"
+    },
+    "media": [
+      "https://storage.example.com/tree_industrial.jpg"
+    ],
+    "status": "in progress",
+    "citizen": {
+      "first_name": "Anusorn",
+      "last_name": "Jaisamut",
+      "thai_id": "65031098765"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a13e"
+    },
+    "issue_id": 62,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a207"
+      }
+    ],
+    "description": "Damaged information board in the park, glass shattered.",
+    "category": "Public Furniture",
+    "reported_at": {
+      "$date": "2025-06-15T10:30:00.000Z"
+    },
+    "location": {
+      "latitude": 13.9700,
+      "longitude": 100.5600,
+      "name": "Muang Pathum Thani, Lake Park"
+    },
+    "media": [
+      "https://storage.example.com/board_lakepark.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Narong",
+      "last_name": "Wichian",
+      "thai_id": "83011055667"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a13f"
+    },
+    "issue_id": 63,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a229"
+      }
+    ],
+    "description": "Incorrect one-way sign installed after road works, causing confusion.",
+    "category": "Traffic and Transport",
+    "reported_at": {
+      "$date": "2025-07-01T15:15:00.000Z"
+    },
+    "location": {
+      "latitude": 13.9600,
+      "longitude": 100.7500,
+      "name": "Lam Luk Ka, Old Market Area"
+    },
+    "media": [
+      "https://storage.example.com/oneway_lamlukka.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Pornthip",
+      "last_name": "Chanok",
+      "thai_id": "92091577889"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a140"
+    },
+    "issue_id": 64,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a222"
+      }
+    ],
+    "description": "Uneven paving stones on the main pedestrian street, tripping hazard.",
+    "category": "Pedestrian Infrastructure",
+    "reported_at": {
+      "$date": "2025-07-15T14:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0150,
+      "longitude": 100.5250,
+      "name": "Mueang Pathum Thani, Walking Street"
+    },
+    "media": [
+      "https://storage.example.com/paving_walkingstreet.jpg"
+    ],
+    "status": "in progress",
+    "citizen": {
+      "first_name": "Malee",
+      "last_name": "Sriboon",
+      "thai_id": "75061400112"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a141"
+    },
+    "issue_id": 65,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a204"
+      }
+    ],
+    "description": "Street lighting consistently fails during heavy rain.",
+    "category": "Safety and Lighting",
+    "reported_at": {
+      "$date": "2025-08-01T20:30:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0200,
+      "longitude": 100.6120,
+      "name": "Rangsit, Klong 2 Road"
+    },
+    "media": [],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Suthep",
+      "last_name": "Petchara",
+      "thai_id": "85021578901"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a142"
+    },
+    "issue_id": 66,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a227"
+      }
+    ],
+    "description": "Damaged public drinking fountain in the main square.",
+    "category": "Public Furniture",
+    "reported_at": {
+      "$date": "2025-08-15T11:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0150,
+      "longitude": 100.5250,
+      "name": "Mueang Pathum Thani, Main Square"
+    },
+    "media": [
+      "https://storage.example.com/fountain_mueang.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Araya",
+      "last_name": "Wongsa",
+      "thai_id": "79082012345"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a143"
+    },
+    "issue_id": 67,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a223"
+      }
+    ],
+    "description": "Overflowing public waste containers causing litter to be blown onto the canal bank.",
+    "category": "Environment and Cleanliness",
+    "reported_at": {
+      "$date": "2025-09-01T09:30:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0080,
+      "longitude": 100.6270,
+      "name": "Thanyaburi, Klong 2 Bank"
+    },
+    "media": [
+      "https://storage.example.com/waste_klong2.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Boonma",
+      "last_name": "Rattana",
+      "thai_id": "90050167890"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a144"
+    },
+    "issue_id": 68,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a224"
+      }
+    ],
+    "description": "Illegally parked vendor trolleys blocking the disabled access ramp near a pedestrian crossing.",
+    "category": "Municipal Law Enforcement",
+    "reported_at": {
+      "$date": "2025-09-15T13:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0200,
+      "longitude": 100.6120,
+      "name": "Rangsit, Future Park Entrance"
+    },
+    "media": [
+      "https://storage.example.com/ramp_rangsit.jpg"
+    ],
+    "status": "in progress",
+    "citizen": {
+      "first_name": "Wichai",
+      "last_name": "Saelee",
+      "thai_id": "78112233445"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a145"
+    },
+    "issue_id": 69,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a203"
+      }
+    ],
+    "description": "Severe cracks appearing on the main Klong Luang bridge structure.",
+    "category": "Road Infrastructure",
+    "reported_at": {
+      "$date": "2025-10-01T15:45:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0400,
+      "longitude": 100.6700,
+      "name": "Klong Luang, Main Bridge"
+    },
+    "media": [
+      "https://storage.example.com/bridge_crack_klongluang.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Chantana",
+      "last_name": "Karnchanachai",
+      "thai_id": "92010145678"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a146"
+    },
+    "issue_id": 70,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a215"
+      }
+    ],
+    "description": "Overgrown park bushes creating hidden alcoves, security concern.",
+    "category": "Urban Greenery",
+    "reported_at": {
+      "$date": "2025-10-05T08:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0500,
+      "longitude": 100.6400,
+      "name": "Klong Luang, Community Park 4"
+    },
+    "media": [
+      "https://storage.example.com/bushes_klongluang.jpg"
+    ],
+    "status": "in progress",
+    "citizen": {
+      "first_name": "Alisa",
+      "last_name": "Chaiwong",
+      "thai_id": "82110499887"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a147"
+    },
+    "issue_id": 71,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a216"
+      }
+    ],
+    "description": "Broken basketball backboard at the community court.",
+    "category": "Recreation and Sport",
+    "reported_at": {
+      "$date": "2025-10-07T14:30:00.000Z"
+    },
+    "location": {
+      "latitude": 13.9700,
+      "longitude": 100.5600,
+      "name": "Muang Pathum Thani, Community Court"
+    },
+    "media": [
+      "https://storage.example.com/backboard_mueang.jpg"
+    ],
+    "status": "in progress",
+    "citizen": {
+      "first_name": "Chaiyot",
+      "last_name": "Wichian",
+      "thai_id": "77012344556"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a148"
+    },
+    "issue_id": 72,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a229"
+      }
+    ],
+    "description": "Damaged road reflector posts along the highway access ramp.",
+    "category": "Traffic and Transport",
+    "reported_at": {
+      "$date": "2025-10-08T16:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0500,
+      "longitude": 100.6100,
+      "name": "Klong Luang, Highway 1 Exit"
+    },
+    "media": [
+      "https://storage.example.com/reflector_klongluang.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Supaporn",
+      "last_name": "Jantima",
+      "thai_id": "96041000112"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a149"
+    },
+    "issue_id": 73,
+    "solutions": [],
+    "description": "Illegal dumping of construction waste in a Klong tributary.",
+    "category": "Environment and Cleanliness",
+    "reported_at": {
+      "$date": "2025-10-09T10:00:00.000Z"
+    },
+    "location": {
+      "latitude": 13.9800,
+      "longitude": 100.6800,
+      "name": "Thanyaburi, Klong Side Tributary"
+    },
+    "media": [
+      "https://storage.example.com/waste_klong_tributary.jpg"
+    ],
+    "status": "pending",
+    "citizen": {
+      "first_name": "Chai",
+      "last_name": "Deejai",
+      "thai_id": "78020500112"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a14a"
+    },
+    "issue_id": 74,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a204"
+      }
+    ],
+    "description": "Damaged light fixture hanging dangerously from a pole in the main square.",
+    "category": "Safety and Lighting",
+    "reported_at": {
+      "$date": "2025-10-10T09:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0150,
+      "longitude": 100.5250,
+      "name": "Mueang Pathum Thani, Main Square"
+    },
+    "media": [
+      "https://storage.example.com/light_danger_mueang.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Kamala",
+      "last_name": "Somboon",
+      "thai_id": "89050512345"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a14b"
+    },
+    "issue_id": 75,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a222"
+      }
+    ],
+    "description": "Uneven road surface after utility works, causing vehicles to slow sharply.",
+    "category": "Road Infrastructure",
+    "reported_at": {
+      "$date": "2025-10-10T12:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0080,
+      "longitude": 100.6270,
+      "name": "Thanyaburi, Rangsit-Nakhon Nayok Road"
+    },
+    "media": [
+      "https://storage.example.com/road_uneven_thanyaburi.jpg"
+    ],
+    "status": "in progress",
+    "citizen": {
+      "first_name": "Siriporn",
+      "last_name": "Tang",
+      "thai_id": "95081811223"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a14c"
+    },
+    "issue_id": 76,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a217"
+      }
+    ],
+    "description": "Overflowing public bins in a high-traffic market area. Urgent collection needed.",
+    "category": "Environment and Cleanliness",
+    "reported_at": {
+      "$date": "2025-10-10T13:30:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0050,
+      "longitude": 100.6100,
+      "name": "Rangsit Market"
+    },
+    "media": [
+      "https://storage.example.com/bins_rangsit_market.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Preeya",
+      "last_name": "Surin",
+      "thai_id": "90070123456"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a14d"
+    },
+    "issue_id": 77,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a224"
+      }
+    ],
+    "description": "Illegal posters covering all informational signs near the market.",
+    "category": "Vandalism and Aesthetics",
+    "reported_at": {
+      "$date": "2025-10-10T14:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0080,
+      "longitude": 100.6270,
+      "name": "Thanyaburi, Market Area"
+    },
+    "media": [
+      "https://storage.example.com/posters_thanyaburi.jpg"
+    ],
+    "status": "in progress",
+    "citizen": {
+      "first_name": "Nitaya",
+      "last_name": "Adisorn",
+      "thai_id": "80032098765"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a14e"
+    },
+    "issue_id": 78,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a203"
+      }
+    ],
+    "description": "Large branch snapped off a tree and is currently resting precariously on power lines.",
+    "category": "Public Safety",
+    "reported_at": {
+      "$date": "2025-10-10T15:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0500,
+      "longitude": 100.6400,
+      "name": "Klong Luang, Klong 3 Area"
+    },
+    "media": [
+      "https://storage.example.com/branch_power_klong3.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Panya",
+      "last_name": "Chompoo",
+      "thai_id": "76110854321"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a14f"
+    },
+    "issue_id": 79,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a226"
+      }
+    ],
+    "description": "Drainage grate completely missing from the sidewalk.",
+    "category": "Pedestrian Infrastructure",
+    "reported_at": {
+      "$date": "2025-10-10T16:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0200,
+      "longitude": 100.6120,
+      "name": "Rangsit, Downtown Sidewalk"
+    },
+    "media": [
+      "https://storage.example.com/grate_missing_rangsit.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Kanya",
+      "last_name": "Suwan",
+      "thai_id": "94062533445"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a150"
+    },
+    "issue_id": 80,
+    "solutions": [],
+    "description": "Water pressure suddenly dropped in the entire housing estate.",
+    "category": "Water/Drainage Infrastructure",
+    "reported_at": {
+      "$date": "2025-10-10T17:00:00.000Z"
+    },
+    "location": {
+      "latitude": 13.9700,
+      "longitude": 100.5600,
+      "name": "Muang Pathum Thani, Ratchathani Estate"
+    },
+    "media": [],
+    "status": "pending",
+    "citizen": {
+      "first_name": "Narong",
+      "last_name": "Wichian",
+      "thai_id": "83011055667"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a151"
+    },
+    "issue_id": 81,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a215"
+      }
+    ],
+    "description": "Tree roots lifting the sidewalk slabs, danger to pedestrians.",
+    "category": "Urban Greenery",
+    "reported_at": {
+      "$date": "2025-10-10T18:00:00.000Z"
+    },
+    "location": {
+      "latitude": 13.9600,
+      "longitude": 100.7500,
+      "name": "Lam Luk Ka, Main Road"
+    },
+    "media": [
+      "https://storage.example.com/tree_roots_lamlukka.jpg"
+    ],
+    "status": "in progress",
+    "citizen": {
+      "first_name": "Pornthip",
+      "last_name": "Chanok",
+      "thai_id": "92091577889"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a152"
+    },
+    "issue_id": 82,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a222"
+      }
+    ],
+    "description": "Deep cracks and structural failure on the road leading to the Sam Khok area.",
+    "category": "Road Infrastructure",
+    "reported_at": {
+      "$date": "2025-10-10T19:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0400,
+      "longitude": 100.5200,
+      "name": "Sam Khok, Main Road"
+    },
+    "media": [
+      "https://storage.example.com/road_samkhok.jpg"
+    ],
+    "status": "in progress",
+    "citizen": {
+      "first_name": "Chai",
+      "last_name": "Deejai",
+      "thai_id": "78020500112"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a153"
+    },
+    "issue_id": 83,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a221"
+      }
+    ],
+    "description": "Street light flickering and then completely going out on a busy main street.",
+    "category": "Safety and Lighting",
+    "reported_at": {
+      "$date": "2025-10-10T20:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0200,
+      "longitude": 100.6120,
+      "name": "Rangsit, Future Park Area"
+    },
+    "media": [],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Suthep",
+      "last_name": "Petchara",
+      "thai_id": "85021578901"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a154"
+    },
+    "issue_id": 84,
+    "solutions": [],
+    "description": "Missing tactile paving at the Mueang Pathum Thani Town Hall entrance.",
+    "category": "Pedestrian Infrastructure",
+    "reported_at": {
+      "$date": "2025-10-10T21:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0150,
+      "longitude": 100.5250,
+      "name": "Mueang Pathum Thani, Town Hall"
+    },
+    "media": [
+      "https://storage.example.com/tactile_townhall.jpg"
+    ],
+    "status": "pending",
+    "citizen": {
+      "first_name": "Araya",
+      "last_name": "Wongsa",
+      "thai_id": "79082012345"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a155"
+    },
+    "issue_id": 85,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a223"
+      }
+    ],
+    "description": "Uncontrolled growth of toxic weeds in the public garden.",
+    "category": "Urban Greenery",
+    "reported_at": {
+      "$date": "2025-10-10T22:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0400,
+      "longitude": 100.6700,
+      "name": "Klong Luang, Public Garden"
+    },
+    "media": [
+      "https://storage.example.com/weeds_klongluang.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Somsri",
+      "last_name": "Inthira",
+      "thai_id": "91031766778"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a156"
+    },
+    "issue_id": 86,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a224"
+      }
+    ],
+    "description": "Vandalized historical monument with spray paint.",
+    "category": "Vandalism and Aesthetics",
+    "reported_at": {
+      "$date": "2025-10-10T23:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0250,
+      "longitude": 100.5200,
+      "name": "Mueang Pathum Thani, Historical Monument"
+    },
+    "media": [
+      "https://storage.example.com/monument_mueang.jpg"
+    ],
+    "status": "in progress",
+    "citizen": {
+      "first_name": "Wichai",
+      "last_name": "Saelee",
+      "thai_id": "78112233445"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a157"
+    },
+    "issue_id": 87,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a226"
+      }
+    ],
+    "description": "Unattended construction materials blocking the entire sidewalk.",
+    "category": "Municipal Law Enforcement",
+    "reported_at": {
+      "$date": "2025-10-11T00:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0400,
+      "longitude": 100.6700,
+      "name": "Klong Luang, Construction Site"
+    },
+    "media": [
+      "https://storage.example.com/material_klongluang.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Panya",
+      "last_name": "Chompoo",
+      "thai_id": "76110854321"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a158"
+    },
+    "issue_id": 88,
+    "solutions": [],
+    "description": "Loud, persistent drilling noise from a commercial property outside legal hours.",
+    "category": "Noise and Disturbance",
+    "reported_at": {
+      "$date": "2025-10-11T01:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0200,
+      "longitude": 100.6120,
+      "name": "Rangsit, Commercial District"
+    },
+    "media": [
+      "https://storage.example.com/noise_drilling_rangsit.mp3"
+    ],
+    "status": "pending",
+    "citizen": {
+      "first_name": "Anusorn",
+      "last_name": "Jaisamut",
+      "thai_id": "65031098765"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a159"
+    },
+    "issue_id": 89,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a229"
+      }
+    ],
+    "description": "Broken guardrail at the Lam Luk Ka canal crossing.",
+    "category": "Public Safety",
+    "reported_at": {
+      "$date": "2025-10-11T02:00:00.000Z"
+    },
+    "location": {
+      "latitude": 13.9600,
+      "longitude": 100.7500,
+      "name": "Lam Luk Ka, Canal Crossing"
+    },
+    "media": [
+      "https://storage.example.com/guardrail_lamlukka.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Supaporn",
+      "last_name": "Jantima",
+      "thai_id": "96041000112"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a15a"
+    },
+    "issue_id": 90,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a222"
+      }
+    ],
+    "description": "Large sinkhole reopened on a minor residential road.",
+    "category": "Road Infrastructure",
+    "reported_at": {
+      "$date": "2025-10-11T03:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0400,
+      "longitude": 100.5200,
+      "name": "Sam Khok, Residential Soi"
+    },
+    "media": [
+      "https://storage.example.com/sinkhole_samkhok.jpg"
+    ],
+    "status": "in progress",
+    "citizen": {
+      "first_name": "Malee",
+      "last_name": "Sriboon",
+      "thai_id": "75061400112"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a15b"
+    },
+    "issue_id": 91,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a204"
+      }
+    ],
+    "description": "Multiple lights out on the main highway billboard.",
+    "category": "Safety and Lighting",
+    "reported_at": {
+      "$date": "2025-10-11T04:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0500,
+      "longitude": 100.6100,
+      "name": "Klong Luang, Highway 1"
+    },
+    "media": [
+      "https://storage.example.com/billboard_klongluang.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Patama",
+      "last_name": "Kaset",
+      "thai_id": "91051511223"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a15c"
+    },
+    "issue_id": 92,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a226"
+      }
+    ],
+    "description": "Damaged storm drain cover on a busy pedestrian bridge.",
+    "category": "Pedestrian Infrastructure",
+    "reported_at": {
+      "$date": "2025-10-11T05:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0200,
+      "longitude": 100.6120,
+      "name": "Rangsit, Pedestrian Bridge"
+    },
+    "media": [
+      "https://storage.example.com/drain_bridge_rangsit.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Suthep",
+      "last_name": "Petchara",
+      "thai_id": "85021578901"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a15d"
+    },
+    "issue_id": 93,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a223"
+      }
+    ],
+    "description": "Illegal advertising flyers stuck to every street light pole.",
+    "category": "Vandalism and Aesthetics",
+    "reported_at": {
+      "$date": "2025-10-11T06:00:00.000Z"
+    },
+    "location": {
+      "latitude": 13.9800,
+      "longitude": 100.6200,
+      "name": "Thanyaburi, Main Road"
+    },
+    "media": [
+      "https://storage.example.com/flyers_thanyaburi.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Araya",
+      "last_name": "Wongsa",
+      "thai_id": "79082012345"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a15e"
+    },
+    "issue_id": 94,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a217"
+      }
+    ],
+    "description": "Unattended construction debris overflowing from a site container.",
+    "category": "Environment and Cleanliness",
+    "reported_at": {
+      "$date": "2025-10-11T07:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0400,
+      "longitude": 100.6700,
+      "name": "Klong Luang, New Construction Site"
+    },
+    "media": [
+      "https://storage.example.com/debris_container_klongluang.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Boonma",
+      "last_name": "Rattana",
+      "thai_id": "90050167890"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a15f"
+    },
+    "issue_id": 95,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a204"
+      }
+    ],
+    "description": "Street light leaning dangerously after being hit by a car.",
+    "category": "Public Safety",
+    "reported_at": {
+      "$date": "2025-10-11T08:00:00.000Z"
+    },
+    "location": {
+      "latitude": 13.9600,
+      "longitude": 100.7500,
+      "name": "Lam Luk Ka, Roadside"
+    },
+    "media": [
+      "https://storage.example.com/light_leaning_lamlukka.jpg"
+    ],
+    "status": "resolved",
+    "citizen": {
+      "first_name": "Wichai",
+      "last_name": "Saelee",
+      "thai_id": "78112233445"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a160"
+    },
+    "issue_id": 96,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a222"
+      }
+    ],
+    "description": "Large area of cracked and broken road surface in the industrial area.",
+    "category": "Road Infrastructure",
+    "reported_at": {
+      "$date": "2025-10-11T09:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0450,
+      "longitude": 100.6750,
+      "name": "Klong Luang, Industrial Area Road 5"
+    },
+    "media": [
+      "https://storage.example.com/road_crack_industrial.jpg"
+    ],
+    "status": "in progress",
+    "citizen": {
+      "first_name": "Chantana",
+      "last_name": "Karnchanachai",
+      "thai_id": "92010145678"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a161"
+    },
+    "issue_id": 97,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a215"
+      }
+    ],
+    "description": "Overgrown ornamental bushes blocking the view of the traffic mirror.",
+    "category": "Urban Greenery",
+    "reported_at": {
+      "$date": "2025-10-11T10:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0150,
+      "longitude": 100.5250,
+      "name": "Mueang Pathum Thani, Road Junction"
+    },
+    "media": [
+      "https://storage.example.com/bushes_junction.jpg"
+    ],
+    "status": "in progress",
+    "citizen": {
+      "first_name": "Kanya",
+      "last_name": "Suwan",
+      "thai_id": "94062533445"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a162"
+    },
+    "issue_id": 98,
+    "solutions": [
+      {
+        "$oid": "65e68372a5b81a2f98f4a227"
+      }
+    ],
+    "description": "Damaged safety netting around the football field perimeter.",
+    "category": "Recreation and Sport",
+    "reported_at": {
+      "$date": "2025-10-11T11:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0200,
+      "longitude": 100.6120,
+      "name": "Rangsit, Community Football Field"
+    },
+    "media": [
+      "https://storage.example.com/netting_rangsit.jpg"
+    ],
+    "status": "in progress",
+    "citizen": {
+      "first_name": "Pairoj",
+      "last_name": "Sukhum",
+      "thai_id": "87052011223"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a163"
+    },
+    "issue_id": 99,
+    "solutions": [],
+    "description": "Loud, unauthorized temple fair music continuing late into the night.",
+    "category": "Noise and Disturbance",
+    "reported_at": {
+      "$date": "2025-10-11T12:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0400,
+      "longitude": 100.5200,
+      "name": "Sam Khok, Local Temple Fair"
+    },
+    "media": [
+      "https://storage.example.com/music_fair_samkhok.mp3"
+    ],
+    "status": "pending",
+    "citizen": {
+      "first_name": "Jinda",
+      "last_name": "Thongsa",
+      "thai_id": "81072554321"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65e68371a5b81a2f98f4a164"
+    },
+    "issue_id": 100,
+    "solutions": [],
+    "description": "Large area of sand/dirt washout onto the main road, causing a slip hazard.",
+    "category": "Road Infrastructure",
+    "reported_at": {
+      "$date": "2025-10-11T13:00:00.000Z"
+    },
+    "location": {
+      "latitude": 14.0500,
+      "longitude": 100.6400,
+      "name": "Klong Luang, Construction Exit"
+    },
+    "media": [
+      "https://storage.example.com/sand_washout_klongluang.jpg"
+    ],
+    "status": "pending",
+    "citizen": {
+      "first_name": "Chaiyot",
+      "last_name": "Wichian",
+      "thai_id": "77012344556"
+    }
+  }
+]

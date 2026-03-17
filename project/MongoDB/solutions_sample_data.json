@@ -1,0 +1,3263 @@
+[
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a201"
+    },
+    "solution_id": 1,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a101"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a109"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a11f"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a125"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a133"
+      }
+    ],
+    "details": "Potholes repaired using hot asphalt patch. Damaged water main replaced and footbridge secured with temporary supports. Sinkhole excavation completed and filled with compacted gravel. Loose manhole secured and leveled.",
+    "cost": 125000.50,
+    "office": {
+      "name": "Public Works & Infrastructure Dept (PWI)",
+      "contact": "02 123 45 67"
+    },
+    "start_date": {
+      "$date": "2023-01-10T08:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2023-03-30T16:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "All major road hazards fixed. Excellent response time for the water main issue.",
+        "citizen": {
+          "first_name": "Suthep",
+          "last_name": "Petchara",
+          "thai_id": "85021578901"
+        }
+      },
+      {
+        "rating": 4,
+        "review": "The footbridge feels secure now, though the repair took a while.",
+        "citizen": {
+          "first_name": "Kamala",
+          "last_name": "Somboon",
+          "thai_id": "89050512345"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a202"
+    },
+    "solution_id": 2,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a102"
+      }
+    ],
+    "details": "Traffic light control unit replaced and junction re-calibrated. Tested for 48 hours to ensure synchronization.",
+    "cost": 8500.00,
+    "office": {
+      "name": "City Electrical & Lighting Division (CEL)",
+      "contact": "02 987 65 43"
+    },
+    "start_date": {
+      "$date": "2023-01-16T10:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2023-01-18T16:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 4,
+        "review": "Lights are working well again, solved the traffic problem.",
+        "citizen": {
+          "first_name": "Araya",
+          "last_name": "Wongsa",
+          "thai_id": "79082012345"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a203"
+    },
+    "solution_id": 3,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a102"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a14e"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a165"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a169"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a16c"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a16f"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a174"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a17b"
+      }
+    ],
+    "details": "Manual traffic direction provided during light repair. / Tree branch safely removed from power lines. / Bridge structural inspection conducted. / Pavement repaired.",
+    "cost": 32000.00,
+    "office": {
+      "name": "Public Works & Infrastructure Dept (PWI)",
+      "contact": "038 111 22 33"
+    },
+    "start_date": {
+      "$date": "2023-01-15T15:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2023-04-10T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "They fixed multiple small issues in the area at once. Very efficient.",
+        "citizen": {
+          "first_name": "Chantana",
+          "last_name": "Karnchanachai",
+          "thai_id": "92010145678"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a204"
+    },
+    "solution_id": 4,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a104"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a138"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a14a"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a141"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a15b"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a15f"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a179"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a17f"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a184"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a187"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a193"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a199"
+      }
+    ],
+    "details": "Street lamp repaired (LED module and driver replaced). Wide-area inspection conducted to replace multiple burnt-out bulbs. Secured leaning pole and repaired damaged fixture.",
+    "cost": 15000.00,
+    "office": {
+      "name": "City Electrical & Lighting Division (CEL)",
+      "contact": "1130"
+    },
+    "start_date": {
+      "$date": "2023-02-06T18:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2023-02-10T09:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The lighting crew was very efficient, the whole road is bright again.",
+        "citizen": {
+          "first_name": "Suthep",
+          "last_name": "Petchara",
+          "thai_id": "85021578901"
+        }
+      },
+      {
+        "rating": 5,
+        "review": "The leaning pole was fixed quickly, removing the immediate danger. Thank you.",
+        "citizen": {
+          "first_name": "Wichai",
+          "last_name": "Saelee",
+          "thai_id": "78112233445"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a205"
+    },
+    "solution_id": 5,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a104"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a117"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a145"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a17d"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a182"
+      }
+    ],
+    "details": "Permanent railing installed on the footbridge. Damaged wooden bench replaced with a durable composite bench. Repair team deployed to secure the footbridge railing.",
+    "cost": 88000.00,
+    "office": {
+      "name": "Parks & Recreation Authority (PRA)",
+      "contact": "02 581 60 70"
+    },
+    "start_date": {
+      "$date": "2023-02-08T09:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2023-08-30T15:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 4,
+        "review": "The park bench was replaced quickly. The area is much safer now.",
+        "citizen": {
+          "first_name": "Alisa",
+          "last_name": "Chaiwong",
+          "thai_id": "82110499887"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a206"
+    },
+    "solution_id": 6,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a105"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a110"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a115"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a121"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a12a"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a16d"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a178"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a180"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a185"
+      }
+    ],
+    "details": "Storm drain unclogged and cleaned using high-pressure jetting. / Pavement slab repaired and pipes covered. / Sewage manhole disinfected and sealed.",
+    "cost": 65000.00,
+    "office": {
+      "name": "Public Works & Infrastructure Dept (PWI)",
+      "contact": "02 598 88 88"
+    },
+    "start_date": {
+      "$date": "2023-02-20T07:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2023-03-25T15:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The smell is gone and the flooding has stopped. Excellent work by the drain team.",
+        "citizen": {
+          "first_name": "Chantana",
+          "last_name": "Karnchanachai",
+          "thai_id": "92010145678"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a207"
+    },
+    "solution_id": 7,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a106"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a111"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a13e"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a143"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a12b"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a173"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a18c"
+      }
+    ],
+    "details": "Damaged bus stop furniture replaced. Information board glass replaced. Flowerbed cleaned up and replanted.",
+    "cost": 18000.00,
+    "office": {
+      "name": "Parks & Recreation Authority (PRA)",
+      "contact": "02 598 77 77"
+    },
+    "start_date": {
+      "$date": "2023-03-05T09:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2023-03-12T14:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "Fast replacement, the bus stop looks clean and inviting now.",
+        "citizen": {
+          "first_name": "Anusorn",
+          "last_name": "Jaisamut",
+          "thai_id": "65031098765"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a208"
+    },
+    "solution_id": 8,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a107"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a16e"
+      }
+    ],
+    "details": "Intervention with minimart management. New delivery schedule enforced (06:00-22:00).",
+    "cost": 0.00,
+    "office": {
+      "name": "Municipal Law Enforcement (MLE)",
+      "contact": "1567"
+    },
+    "start_date": {
+      "$date": "2023-03-16T12:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2023-03-16T15:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The noise immediately stopped! Thank you for the quick intervention.",
+        "citizen": {
+          "first_name": "Jinda",
+          "last_name": "Thongsa",
+          "thai_id": "81072554321"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a209"
+    },
+    "solution_id": 9,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a108"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a124"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a119"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a176"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a181"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a191"
+      }
+    ],
+    "details": "New signs installed and old signs replaced. Pedestrian crossing sign reinstalled.",
+    "cost": 9000.00,
+    "office": {
+      "name": "Traffic & Transport Planning (TTP)",
+      "contact": "02 598 66 66"
+    },
+    "start_date": {
+      "$date": "2023-04-03T09:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2023-04-07T15:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The new crosswalk sign is bright and clearly visible now, much safer for the children.",
+        "citizen": {
+          "first_name": "Sompong",
+          "last_name": "Khamdee",
+          "thai_id": "88120377889"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a20a"
+    },
+    "solution_id": 10,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a10a"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a114"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a120"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a10f"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a18a"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a192"
+      }
+    ],
+    "details": "Vendor stalls removed and warnings issued. Additional public waste bin installed. Overflowing bins collected and new schedule set.",
+    "cost": 15000.00,
+    "office": {
+      "name": "Municipal Law Enforcement (MLE)",
+      "contact": "1567"
+    },
+    "start_date": {
+      "$date": "2023-04-26T14:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2023-04-28T11:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "Vendors cleared out and we can walk freely again! The area is much tidier.",
+        "citizen": {
+          "first_name": "Preecha",
+          "last_name": "Chaiyan",
+          "thai_id": "83042922334"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a20b"
+    },
+    "solution_id": 11,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a10a"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a10c"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a16f"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a17e"
+      }
+    ],
+    "details": "Weekly deep cleaning of the market area sidewalks implemented. Loose pavement tiles replaced and cemented securely.",
+    "cost": 18000.00,
+    "office": {
+      "name": "Public Works & Infrastructure Dept (PWI)",
+      "contact": "02 123 45 67"
+    },
+    "start_date": {
+      "$date": "2023-04-28T09:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2023-05-22T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 4,
+        "review": "Cleaning is noticeably better. Happy the tripping hazard is fixed for the kids.",
+        "citizen": {
+          "first_name": "Boonruen",
+          "last_name": "Sakorn",
+          "thai_id": "84091133445"
+        }
+      },
+      {
+        "rating": 5,
+        "review": "Sidewalk is solid now. Good repair.",
+        "citizen": {
+          "first_name": "Preecha",
+          "last_name": "Chaiyan",
+          "thai_id": "83042922334"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a20c"
+    },
+    "solution_id": 12,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a10b"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a127"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a165"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a175"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a18f"
+      }
+    ],
+    "details": "Overgrown tree branches obscuring signs were professionally pruned. Uprooted plants replanted and damaged flower bed repaired.",
+    "cost": 11000.00,
+    "office": {
+      "name": "Environmental Services (ES)",
+      "contact": "02 598 55 55"
+    },
+    "start_date": {
+      "$date": "2023-05-10T09:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2023-05-20T16:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The signs are finally clear, and the park looks vibrant again.",
+        "citizen": {
+          "first_name": "Pornthip",
+          "last_name": "Chanok",
+          "thai_id": "92091577889"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a20d"
+    },
+    "solution_id": 13,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a10d"
+      }
+    ],
+    "details": "Pedestrian signal cycle optimized. Waiting time during peak hours reduced by 15 seconds.",
+    "cost": 1200.00,
+    "office": {
+      "name": "Traffic & Transport Planning (TTP)",
+      "contact": "02 598 66 66"
+    },
+    "start_date": {
+      "$date": "2023-06-05T11:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2023-06-05T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 4,
+        "review": "The wait is noticeably shorter. Small fix, big impact.",
+        "citizen": {
+          "first_name": "Naree",
+          "last_name": "Suthamma",
+          "thai_id": "93022755667"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a20e"
+    },
+    "solution_id": 14,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a10e"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a17a"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a194"
+      }
+    ],
+    "details": "Professional graffiti removal, anti-graffiti coating applied, and discreet CCTV installed on the building corner.",
+    "cost": 18000.00,
+    "office": {
+      "name": "Municipal Law Enforcement (MLE)",
+      "contact": "1567"
+    },
+    "start_date": {
+      "$date": "2023-06-18T08:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2023-06-21T16:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The district office looks pristine again. Security camera is a good deterrent.",
+        "citizen": {
+          "first_name": "Veera",
+          "last_name": "Phromma",
+          "thai_id": "70100588990"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a20f"
+    },
+    "solution_id": 15,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a112"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a186"
+      }
+    ],
+    "details": "Temporary railing erected near the klong bank. Permanent steel railing order placed and installation initiated.",
+    "cost": 11000.00,
+    "office": {
+      "name": "Parks & Recreation Authority (PRA)",
+      "contact": "02 598 77 77"
+    },
+    "start_date": {
+      "$date": "2023-08-16T09:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2023-08-20T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 4,
+        "review": "Temporary railing is up, makes it much safer, awaiting the permanent one.",
+        "citizen": {
+          "first_name": "Alisa",
+          "last_name": "Chaiwong",
+          "thai_id": "82110499887"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a210"
+    },
+    "solution_id": 16,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a10f"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a120"
+      }
+    ],
+    "details": "Weekly segregated waste collection increased to three times a week in the Thanyaburi area. New large capacity bin installed in the Rangsit area.",
+    "cost": 12500.00,
+    "office": {
+      "name": "Environmental Services (ES)",
+      "contact": "02 598 55 55"
+    },
+    "start_date": {
+      "$date": "2023-07-02T05:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2023-07-06T15:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 4,
+        "review": "The bin issue is solved. No more overflowing trash at the corner.",
+        "citizen": {
+          "first_name": "Kamala",
+          "last_name": "Somboon",
+          "thai_id": "89050512345"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a211"
+    },
+    "solution_id": 17,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a10a"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a17a"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a183"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a193"
+      }
+    ],
+    "details": "Daily cleaning patrols assigned to the market area after closing hours. Large volume trash bins installed.",
+    "cost": 7500.00,
+    "office": {
+      "name": "Environmental Services (ES)",
+      "contact": "02 598 55 55"
+    },
+    "start_date": {
+      "$date": "2023-04-26T18:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2023-05-02T06:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The area is clean every morning. Noticeable improvement in cleanliness.",
+        "citizen": {
+          "first_name": "Preecha",
+          "last_name": "Chaiyan",
+          "thai_id": "83042922334"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a212"
+    },
+    "solution_id": 18,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a10b"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a127"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a177"
+      }
+    ],
+    "details": "Trimming of tree branches to ensure sign visibility. Flower bed repairs completed.",
+    "cost": 6500.00,
+    "office": {
+      "name": "Environmental Services (ES)",
+      "contact": "02 598 55 55"
+    },
+    "start_date": {
+      "$date": "2023-05-09T08:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2023-05-11T16:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "Branches are trimmed, signs are clear. Good work.",
+        "citizen": {
+          "first_name": "Siriporn",
+          "last_name": "Tang",
+          "thai_id": "95081811223"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a213"
+    },
+    "solution_id": 19,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a10d"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a127"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a139"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a130"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a18d"
+      }
+    ],
+    "details": "Traffic light signal cycle adjusted for better flow. Road markings repainted. Foliage trimmed for visibility. Permanent fix for the traffic synchronization issue.",
+    "cost": 15000.00,
+    "office": {
+      "name": "Traffic & Transport Planning (TTP)",
+      "contact": "02 598 66 66"
+    },
+    "start_date": {
+      "$date": "2023-06-05T18:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2023-06-15T16:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "Synchronization is much better, traffic moves faster now. Clear signs.",
+        "citizen": {
+          "first_name": "Araya",
+          "last_name": "Wongsa",
+          "thai_id": "79082012345"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a214"
+    },
+    "solution_id": 20,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a10e"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a128"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a129"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a16b"
+      }
+    ],
+    "details": "Graffiti removed and anti-graffiti paint applied. Security cameras installed in the park.",
+    "cost": 22000.00,
+    "office": {
+      "name": "Municipal Law Enforcement (MLE)",
+      "contact": "1567"
+    },
+    "start_date": {
+      "$date": "2023-06-18T08:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2023-06-25T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "Graffiti gone and a camera installed. Excellent response.",
+        "citizen": {
+          "first_name": "Boonma",
+          "last_name": "Rattana",
+          "thai_id": "90050167890"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a215"
+    },
+    "solution_id": 21,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a112"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a135"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a146"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a151"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a161"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a13d"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a189"
+      }
+    ],
+    "details": "Installation of permanent steel railing along the klong. Fallen branch removed. Tree roots trimmed and sidewalk stabilized.",
+    "cost": 95000.00,
+    "office": {
+      "name": "Parks & Recreation Authority (PRA)",
+      "contact": "02 598 77 77"
+    },
+    "start_date": {
+      "$date": "2023-08-21T09:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2023-11-30T16:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The permanent railing is installed and looks great. The path is safe now.",
+        "citizen": {
+          "first_name": "Alisa",
+          "last_name": "Chaiwong",
+          "thai_id": "82110499887"
+        }
+      },
+      {
+        "rating": 4,
+        "review": "The dangerous overgrowth near the road was finally cleared. Very necessary work.",
+        "citizen": {
+          "first_name": "Chaiyot",
+          "last_name": "Wichian",
+          "thai_id": "77012344556"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a216"
+    },
+    "solution_id": 22,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a113"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a147"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a17c"
+      }
+    ],
+    "details": "Basketball court resurfacing completed. New backboard and hoop installed. New lines painted.",
+    "cost": 65000.00,
+    "office": {
+      "name": "Parks & Recreation Authority (PRA)",
+      "contact": "02 598 77 77"
+    },
+    "start_date": {
+      "$date": "2023-09-03T10:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2023-10-15T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The court is fantastic, perfect for playing now!",
+        "citizen": {
+          "first_name": "Panya",
+          "last_name": "Chompoo",
+          "thai_id": "76110854321"
+        }
+      },
+      {
+        "rating": 5,
+        "review": "The new backboard is excellent, and the surface is smooth.",
+        "citizen": {
+          "first_name": "Chaiyot",
+          "last_name": "Wichian",
+          "thai_id": "77012344556"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a217"
+    },
+    "solution_id": 23,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a116"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a11e"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a13a"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a14c"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a15e"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a177"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a198"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a19b"
+      }
+    ],
+    "details": "Chemical spill site thoroughly cleaned and soil removed. Illegally dumped tires and trash collected and disposed of. Weekly collection enforced.",
+    "cost": 150000.00,
+    "office": {
+      "name": "Environmental Services (ES)",
+      "contact": "02 598 55 55"
+    },
+    "start_date": {
+      "$date": "2023-10-16T08:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2023-11-20T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The area is completely clean, and the frequent trash collection schedule is working wonders.",
+        "citizen": {
+          "first_name": "Preeya",
+          "last_name": "Surin",
+          "thai_id": "90070123445"
+        }
+      },
+      {
+        "rating": 5,
+        "review": "The chemical spill was handled quickly before it could spread further. Highly professional cleanup.",
+        "citizen": {
+          "first_name": "Thongchai",
+          "last_name": "Saenkhot",
+          "thai_id": "85032033445"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a218"
+    },
+    "solution_id": 24,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a117"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a11d"
+      }
+    ],
+    "details": "Emergency callout to replace the main circuit board in the power box. Burned out bulb in underpass replaced with high-efficiency LED.",
+    "cost": 7500.00,
+    "office": {
+      "name": "City Electrical & Lighting Division (CEL)",
+      "contact": "1130"
+    },
+    "start_date": {
+      "$date": "2023-11-02T09:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2023-11-03T16:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The lights are working now, and the underpass feels safe again.",
+        "citizen": {
+          "first_name": "Patama",
+          "last_name": "Kaset",
+          "thai_id": "91051511223"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a219"
+    },
+    "solution_id": 25,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a117"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a132"
+      }
+    ],
+    "details": "Additional security patrols assigned to the unlit area near the residential block. Temporary fence installed around the municipal school.",
+    "cost": 15000.00,
+    "office": {
+      "name": "Municipal Law Enforcement (MLE)",
+      "contact": "1567"
+    },
+    "start_date": {
+      "$date": "2023-11-01T21:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2023-11-07T14:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The patrols made a difference immediately. The school is safe now.",
+        "citizen": {
+          "first_name": "Pairoj",
+          "last_name": "Sukhum",
+          "thai_id": "87052011223"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a220"
+    },
+    "solution_id": 26,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a118"
+      }
+    ],
+    "details": "Cracked concrete slabs removed and replaced with safe, shock-absorbent rubberized playground surfacing.",
+    "cost": 35000.00,
+    "office": {
+      "name": "Parks & Recreation Authority (PRA)",
+      "contact": "02 598 77 77"
+    },
+    "start_date": {
+      "$date": "2023-11-20T09:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2023-11-25T16:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "Excellent work. The new surface is soft and safe for the children.",
+        "citizen": {
+          "first_name": "Panya",
+          "last_name": "Chompoo",
+          "thai_id": "76110854321"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a221"
+    },
+    "solution_id": 27,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a11a"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a12f"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a153"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a141"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a14f"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a165"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a179"
+      }
+    ],
+    "details": "Installation of high-power LED floodlights at the crosswalk. Street lamp repaired and re-secured. Electrical repairs completed.",
+    "cost": 11000.00,
+    "office": {
+      "name": "City Electrical & Lighting Division (CEL)",
+      "contact": "1130"
+    },
+    "start_date": {
+      "$date": "2023-12-16T10:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2023-12-20T09:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The crosswalk is perfectly lit now. Feels much safer walking home.",
+        "citizen": {
+          "first_name": "Narong",
+          "last_name": "Wichian",
+          "thai_id": "83011055667"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a222"
+    },
+    "solution_id": 28,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a11c"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a12e"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a137"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a13b"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a140"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a152"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a160"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a178"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a180"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a188"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a193"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a196"
+      }
+    ],
+    "details": "Road resurfacing of the access road initiated and completed. Damaged guardrail replaced. Tactile paving installed. Sidewalk and road erosion repaired. Paving stones re-leveled.",
+    "cost": 450000.00,
+    "office": {
+      "name": "Public Works & Infrastructure Dept (PWI)",
+      "contact": "02 123 45 67"
+    },
+    "start_date": {
+      "$date": "2024-01-16T08:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2024-03-30T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The road is completely smooth now, and the new paving is excellent for pedestrians.",
+        "citizen": {
+          "first_name": "Araya",
+          "last_name": "Wongsa",
+          "thai_id": "79082012345"
+        }
+      },
+      {
+        "rating": 5,
+        "review": "They fixed the erosion problem along the riverbank quickly, which was a huge safety concern.",
+        "citizen": {
+          "first_name": "Chai",
+          "last_name": "Deejai",
+          "thai_id": "78020500112"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a223"
+    },
+    "solution_id": 29,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a11e"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a131"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a143"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a155"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a15d"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a163"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a16f"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a174"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a17d"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a18b"
+      }
+    ],
+    "details": "Bulky waste cleared and disposed. Debris from construction site removed. Ornamental weeds removed. Illegal flyers removed. Weekly monitoring established.",
+    "cost": 55000.00,
+    "office": {
+      "name": "Environmental Services (ES)",
+      "contact": "02 598 55 55"
+    },
+    "start_date": {
+      "$date": "2024-02-16T09:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2024-03-05T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The abandoned lot is finally clear! The flyers are gone.",
+        "citizen": {
+          "first_name": "Somsri",
+          "last_name": "Inthira",
+          "thai_id": "91031766778"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a224"
+    },
+    "solution_id": 30,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a120"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a144"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a14d"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a156"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a180"
+      }
+    ],
+    "details": "Inter-agency speed enforcement program initiated. Vendor trolleys removed, area cleared. Graffiti removal on the monument completed. Security warning issued.",
+    "cost": 30000.00,
+    "office": {
+      "name": "Municipal Law Enforcement (MLE)",
+      "contact": "1567"
+    },
+    "start_date": {
+      "$date": "2024-03-17T10:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2024-04-01T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "Great to see enforcement in the area. The speeding issue is much better controlled.",
+        "citizen": {
+          "first_name": "Anusorn",
+          "last_name": "Jaisamut",
+          "thai_id": "65031098765"
+        }
+      },
+      {
+        "rating": 4,
+        "review": "The monument was cleaned very quickly. It looks respectable again.",
+        "citizen": {
+          "first_name": "Wichai",
+          "last_name": "Saelee",
+          "thai_id": "78112233445"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a225"
+    },
+    "solution_id": 31,
+    "issues": [
+      {
+        "$oid": "65e68331a5b81a2f98f4a122"
+      }
+    ],
+    "details": "Damaged outdoor gym equipment repaired and repainted with rust-proof coating.",
+    "cost": 15000.00,
+    "office": {
+      "name": "Parks & Recreation Authority (PRA)",
+      "contact": "02 598 77 77"
+    },
+    "start_date": {
+      "$date": "2024-04-17T09:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2024-04-20T16:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "Equipment is safe and clean to use again. Thank you.",
+        "citizen": {
+          "first_name": "Pichai",
+          "last_name": "Saenkhot",
+          "thai_id": "76081233445"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a226"
+    },
+    "solution_id": 32,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a126"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a136"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a13c"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a14f"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a157"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a15c"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a16e"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a180"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a199"
+      }
+    ],
+    "details": "Sewer line unclogged, odor eliminated. Storm drain capacity increased. Missing grate replaced. Blockage materials removed. Permanent solution implemented.",
+    "cost": 150000.00,
+    "office": {
+      "name": "Public Works & Infrastructure Dept (PWI)",
+      "contact": "02 123 45 67"
+    },
+    "start_date": {
+      "$date": "2024-06-16T08:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2024-07-25T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The underpass no longer floods! Odor is gone, fantastic.",
+        "citizen": {
+          "first_name": "Chantana",
+          "last_name": "Karnchanachai",
+          "thai_id": "92010145678"
+        }
+      },
+      {
+        "rating": 4,
+        "review": "The team worked quickly to replace the missing drain cover, preventing a hazard.",
+        "citizen": {
+          "first_name": "Kanya",
+          "last_name": "Suwan",
+          "thai_id": "94062533445"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a227"
+    },
+    "solution_id": 33,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a129"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a132"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a142"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a162"
+      }
+    ],
+    "details": "Sprinkler timer replaced and system calibrated. Fence around the municipal school permanently repaired. Damaged fountain fixed. Football field netting replaced.",
+    "cost": 25000.00,
+    "office": {
+      "name": "Parks & Recreation Authority (PRA)",
+      "contact": "02 598 77 77"
+    },
+    "start_date": {
+      "$date": "2024-08-05T09:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2024-08-18T16:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The park fountain is working perfectly now, great timing before the hot season. School fence is secure.",
+        "citizen": {
+          "first_name": "Araya",
+          "last_name": "Wongsa",
+          "thai_id": "79082012345"
+        }
+      },
+      {
+        "rating": 5,
+        "review": "Excellent work repairing the damaged fence and fountain.",
+        "citizen": {
+          "first_name": "Pairoj",
+          "last_name": "Sukhum",
+          "thai_id": "87052011223"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a228"
+    },
+    "solution_id": 34,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a12c"
+      }
+    ],
+    "details": "Municipal Law Enforcement dispatched to the area to capture/relocate the stray dogs. Patrols increased to monitor the area.",
+    "cost": 8000.00,
+    "office": {
+      "name": "Municipal Law Enforcement (MLE)",
+      "contact": "1567"
+    },
+    "start_date": {
+      "$date": "2024-09-16T18:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2024-09-20T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 4,
+        "review": "The strays are gone and the street is quiet again. Appreciate the fast action.",
+        "citizen": {
+          "first_name": "Veera",
+          "last_name": "Phromma",
+          "thai_id": "70100588990"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a229"
+    },
+    "solution_id": 35,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a12d"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a134"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a13f"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a148"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a159"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a170"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a181"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a19d"
+      }
+    ],
+    "details": "Crosswalk markings repainted with highly visible thermoplastic paint. Illegal stall removed. New signs installed. Damaged reflector posts replaced.",
+    "cost": 35000.00,
+    "office": {
+      "name": "Traffic & Transport Planning (TTP)",
+      "contact": "02 598 66 66"
+    },
+    "start_date": {
+      "$date": "2024-10-05T09:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2024-10-15T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The crosswalk is safe and clear now, and the illegal stall is gone.",
+        "citizen": {
+          "first_name": "Kanya",
+          "last_name": "Suwan",
+          "thai_id": "94062533445"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a22a"
+    },
+    "solution_id": 36,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a19f"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1a0"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1a1"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1a2"
+      }
+    ],
+    "details": "Emergency patch repair of cracked pavement sections. Full road resurfacing project initiated (ongoing).",
+    "cost": 150000.00,
+    "office": {
+      "name": "Public Works & Infrastructure Dept (PWI)",
+      "contact": "02 123 45 67"
+    },
+    "start_date": {
+      "$date": "2025-01-20T08:00:00.000Z"
+    },
+    "finish_date": null,
+    "feedback": []
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a22b"
+    },
+    "solution_id": 37,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1a3"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1a4"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1a5"
+      }
+    ],
+    "details": "Tree pruning and aesthetic maintenance completed. Installation of new 'Do Not Litter' signs in the area.",
+    "cost": 8500.00,
+    "office": {
+      "name": "Environmental Services (ES)",
+      "contact": "02 598 55 55"
+    },
+    "start_date": {
+      "$date": "2025-08-01T09:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2025-08-05T16:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The park looks neat, and the signs are visible. Quick and effective.",
+        "citizen": {
+          "first_name": "Jinda",
+          "last_name": "Thongsa",
+          "thai_id": "81072554321"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a22c"
+    },
+    "solution_id": 38,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1a6"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1a7"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1a8"
+      }
+    ],
+    "details": "Damaged playground swings and slide replaced with new, safety-compliant equipment.",
+    "cost": 45000.00,
+    "office": {
+      "name": "Parks & Recreation Authority (PRA)",
+      "contact": "02 598 77 77"
+    },
+    "start_date": {
+      "$date": "2025-08-15T08:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2025-08-22T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The children love the new equipment! Very fast installation.",
+        "citizen": {
+          "first_name": "Narong",
+          "last_name": "Wichian",
+          "thai_id": "83011055667"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a22d"
+    },
+    "solution_id": 39,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1a9"
+      }
+    ],
+    "details": "Water pressure fluctuation investigated; minor leak found in the pumping station and repaired.",
+    "cost": 25000.00,
+    "office": {
+      "name": "Public Works & Infrastructure Dept (PWI)",
+      "contact": "02 123 45 67"
+    },
+    "start_date": {
+      "$date": "2025-08-28T10:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2025-08-30T14:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 4,
+        "review": "Pressure restored quickly, good work.",
+        "citizen": {
+          "first_name": "Suthep",
+          "last_name": "Petchara",
+          "thai_id": "85021578901"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a22e"
+    },
+    "solution_id": 40,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1aa"
+      }
+    ],
+    "details": "Traffic signal sensor adjusted to provide fair priority to the bus lane, reducing waiting times.",
+    "cost": 4500.00,
+    "office": {
+      "name": "Traffic & Transport Planning (TTP)",
+      "contact": "02 598 66 66"
+    },
+    "start_date": {
+      "$date": "2025-09-05T14:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2025-09-05T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "Bus traffic is significantly faster now, excellent optimization!",
+        "citizen": {
+          "first_name": "Araya",
+          "last_name": "Wongsa",
+          "thai_id": "79082012345"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a22f"
+    },
+    "solution_id": 41,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1ab"
+      }
+    ],
+    "details": "Emergency deployment to remove hazardous debris (large metal sheet) from the road surface.",
+    "cost": 5000.00,
+    "office": {
+      "name": "Public Works & Infrastructure Dept (PWI)",
+      "contact": "02 123 45 67"
+    },
+    "start_date": {
+      "$date": "2025-09-09T08:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2025-09-09T11:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The obstruction was cleared quickly. Thank you for making the road safe.",
+        "citizen": {
+          "first_name": "Boonma",
+          "last_name": "Rattana",
+          "thai_id": "90050167890"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a230"
+    },
+    "solution_id": 42,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1ac"
+      }
+    ],
+    "details": "Cleaning crew dispatched to remove graffiti and apply anti-vandalism coating to the retaining wall.",
+    "cost": 9000.00,
+    "office": {
+      "name": "Municipal Law Enforcement (MLE)",
+      "contact": "1567"
+    },
+    "start_date": {
+      "$date": "2025-09-12T09:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2025-09-14T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "Quick response. The wall is clean and looks new again.",
+        "citizen": {
+          "first_name": "Wichai",
+          "last_name": "Saelee",
+          "thai_id": "78112233445"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a231"
+    },
+    "solution_id": 43,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1ad"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1ae"
+      }
+    ],
+    "details": "Repair team dispatched to replace the faulty circuit breaker in the lighting panel. Burned out street lamp replaced.",
+    "cost": 6500.00,
+    "office": {
+      "name": "City Electrical & Lighting Division (CEL)",
+      "contact": "1130"
+    },
+    "start_date": {
+      "$date": "2025-09-18T10:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2025-09-18T16:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "Lights are back on! Very fast service.",
+        "citizen": {
+          "first_name": "Chantana",
+          "last_name": "Karnchanachai",
+          "thai_id": "92010145678"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a232"
+    },
+    "solution_id": 44,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1af"
+      }
+    ],
+    "details": "Cleaning crew dispatched to remove accumulated organic debris (leaves, branches) blocking the storm sewer inlets.",
+    "cost": 4000.00,
+    "office": {
+      "name": "Environmental Services (ES)",
+      "contact": "02 598 55 55"
+    },
+    "start_date": {
+      "$date": "2025-09-22T08:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2025-09-22T12:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 4,
+        "review": "Water is draining correctly now. Good job.",
+        "citizen": {
+          "first_name": "Panya",
+          "last_name": "Chompoo",
+          "thai_id": "76110854321"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a233"
+    },
+    "solution_id": 45,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1b0"
+      }
+    ],
+    "details": "Contractor notified and dispatched to replace the entire damaged section of the elevated walkway railing.",
+    "cost": 25000.00,
+    "office": {
+      "name": "Public Works & Infrastructure Dept (PWI)",
+      "contact": "02 123 45 67"
+    },
+    "start_date": {
+      "$date": "2025-09-26T09:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2025-09-30T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 4,
+        "review": "The railing is replaced. Much safer now.",
+        "citizen": {
+          "first_name": "Naree",
+          "last_name": "Suthamma",
+          "thai_id": "93022755667"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a234"
+    },
+    "solution_id": 46,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1b1"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1b2"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1b3"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1b4"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1b5"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1b6"
+      }
+    ],
+    "details": "Illegally parked cars ticketed and towed. Ongoing surveillance to prevent vendors from re-establishing. Construction debris removed from the sidewalk.",
+    "cost": 12000.00,
+    "office": {
+      "name": "Municipal Law Enforcement (MLE)",
+      "contact": "1567"
+    },
+    "start_date": {
+      "$date": "2025-10-01T10:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2025-10-07T16:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The street is finally clear for pedestrians and traffic flow is improved.",
+        "citizen": {
+          "first_name": "Preecha",
+          "last_name": "Chaiyan",
+          "thai_id": "83042922334"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a235"
+    },
+    "solution_id": 47,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1b7"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1b8"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1b9"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1ba"
+      }
+    ],
+    "details": "Major repair of damaged storm drain pipe, including excavation and replacement of a 15-meter section. Road patched with temporary asphalt.",
+    "cost": 180000.00,
+    "office": {
+      "name": "Public Works & Infrastructure Dept (PWI)",
+      "contact": "02 123 45 67"
+    },
+    "start_date": {
+      "$date": "2025-10-05T08:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2025-11-05T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 4,
+        "review": "The flooding has stopped completely. Roadwork was slow but effective.",
+        "citizen": {
+          "first_name": "Suthep",
+          "last_name": "Petchara",
+          "thai_id": "85021578901"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a236"
+    },
+    "solution_id": 48,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1bb"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1bc"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1bd"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1be"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1bf"
+      }
+    ],
+    "details": "Deep cleaning and disinfection of public waste collection points. New bins installed with anti-scavenging features. Waste collection frequency increased to daily.",
+    "cost": 15000.00,
+    "office": {
+      "name": "Environmental Services (ES)",
+      "contact": "02 598 55 55"
+    },
+    "start_date": {
+      "$date": "2025-10-20T07:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2025-10-24T15:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The area is much cleaner, and the rodent issue seems to be gone.",
+        "citizen": {
+          "first_name": "Sompong",
+          "last_name": "Khamdee",
+          "thai_id": "88120377889"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a237"
+    },
+    "solution_id": 49,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1c0"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1c1"
+      }
+    ],
+    "details": "Traffic signal timing re-optimized across three major junctions to improve peak hour flow (Green Wave implementation).",
+    "cost": 3000.00,
+    "office": {
+      "name": "Traffic & Transport Planning (TTP)",
+      "contact": "02 598 66 66"
+    },
+    "start_date": {
+      "$date": "2025-11-01T10:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2025-11-01T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 4,
+        "review": "Commute time seems slightly faster. Good adjustment.",
+        "citizen": {
+          "first_name": "Araya",
+          "last_name": "Wongsa",
+          "thai_id": "79082012345"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a238"
+    },
+    "solution_id": 50,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1c2"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1c3"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1c4"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1c5"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1c6"
+      }
+    ],
+    "details": "Faulty street lamp control unit replaced and new LED bulbs installed. Electrical cable isolation and repair completed.",
+    "cost": 11000.00,
+    "office": {
+      "name": "City Electrical & Lighting Division (CEL)",
+      "contact": "1130"
+    },
+    "start_date": {
+      "$date": "2025-11-05T18:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2025-11-08T09:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The park path is finally lit. Much safer at night. Fast repair.",
+        "citizen": {
+          "first_name": "Alisa",
+          "last_name": "Chaiwong",
+          "thai_id": "82110499887"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a239"
+    },
+    "solution_id": 51,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1c7"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1c8"
+      }
+    ],
+    "details": "Major road section excavated and repaired due to underlying pipe failure causing soil erosion and collapse. New sub-base laid and road resurfaced with concrete.",
+    "cost": 650000.00,
+    "office": {
+      "name": "Public Works & Infrastructure Dept (PWI)",
+      "contact": "02 123 45 67"
+    },
+    "start_date": {
+      "$date": "2025-11-10T08:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2026-02-15T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The road is completely fixed, feels solid. Worth the wait.",
+        "citizen": {
+          "first_name": "Chantana",
+          "last_name": "Karnchanachai",
+          "thai_id": "92010145678"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a23a"
+    },
+    "solution_id": 52,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1c9"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1ca"
+      }
+    ],
+    "details": "Professional exterminator contracted to bait and treat the area for rats. Weekly monitoring implemented for three months.",
+    "cost": 18000.00,
+    "office": {
+      "name": "Environmental Services (ES)",
+      "contact": "02 598 55 55"
+    },
+    "start_date": {
+      "$date": "2025-12-01T09:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2025-12-03T16:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 4,
+        "review": "Rodent activity reduced significantly. Effective response.",
+        "citizen": {
+          "first_name": "Jinda",
+          "last_name": "Thongsa",
+          "thai_id": "81072554321"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a23b"
+    },
+    "solution_id": 53,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1cb"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1cc"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1cd"
+      }
+    ],
+    "details": "Noise violation warnings issued to the restaurant. Illegal street vendor relocated and area cleared. Increased security patrols in the nightlife district.",
+    "cost": 7500.00,
+    "office": {
+      "name": "Municipal Law Enforcement (MLE)",
+      "contact": "1567"
+    },
+    "start_date": {
+      "$date": "2025-12-10T19:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2025-12-11T22:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The noise level has dropped dramatically. Thank you for the quick action.",
+        "citizen": {
+          "first_name": "Veera",
+          "last_name": "Phromma",
+          "thai_id": "70100588990"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a23c"
+    },
+    "solution_id": 54,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1ce"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1cf"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1d0"
+      }
+    ],
+    "details": "Installation of high-visibility road markings at the school crossing. Damaged speed bump replaced. New 'School Zone' warning signs installed.",
+    "cost": 18000.00,
+    "office": {
+      "name": "Traffic & Transport Planning (TTP)",
+      "contact": "02 598 66 66"
+    },
+    "start_date": {
+      "$date": "2026-01-05T09:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2026-01-19T16:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The school zone is much safer now, excellent and clear markings.",
+        "citizen": {
+          "first_name": "Panya",
+          "last_name": "Chompoo",
+          "thai_id": "76110854321"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a23d"
+    },
+    "solution_id": 55,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1d1"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1d2"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1d3"
+      }
+    ],
+    "details": "Damaged perimeter fence of the football field repaired. Uprooted plants replanted. Park sign restored.",
+    "cost": 11000.00,
+    "office": {
+      "name": "Parks & Recreation Authority (PRA)",
+      "contact": "02 598 77 77"
+    },
+    "start_date": {
+      "$date": "2026-02-01T09:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2026-02-06T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "Quick fix, the field is secure and ready for games.",
+        "citizen": {
+          "first_name": "Pichai",
+          "last_name": "Saenkhot",
+          "thai_id": "76081233445"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a23e"
+    },
+    "solution_id": 56,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1d4"
+      }
+    ],
+    "details": "Major water main burst repaired. Requires deep excavation, replacement of a large section of main, and extensive road restoration.",
+    "cost": 350000.00,
+    "office": {
+      "name": "Public Works & Infrastructure Dept (PWI)",
+      "contact": "02 123 45 67"
+    },
+    "start_date": {
+      "$date": "2026-02-20T09:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2026-03-15T18:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 4,
+        "review": "Water pressure is fully restored. Thank you for the dedication to fixing this complex issue.",
+        "citizen": {
+          "first_name": "Boonruen",
+          "last_name": "Sakorn",
+          "thai_id": "84091133445"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a23f"
+    },
+    "solution_id": 57,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1d5"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1d6"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1d7"
+      }
+    ],
+    "details": "Replacement of faulty street lamp ballasts and timers. Installation of a new lighting sensor for automatic switching.",
+    "cost": 9000.00,
+    "office": {
+      "name": "City Electrical & Lighting Division (CEL)",
+      "contact": "1130"
+    },
+    "start_date": {
+      "$date": "2026-03-25T17:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2026-03-27T08:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "All lights are working, the street is safe and well-lit again.",
+        "citizen": {
+          "first_name": "Siriporn",
+          "last_name": "Tang",
+          "thai_id": "95081811223"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a240"
+    },
+    "solution_id": 58,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1d8"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1d9"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1da"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1db"
+      }
+    ],
+    "details": "Bulk illegal dumping removed and site fenced off. New garbage collection schedule implemented for residential area. Waste disposal signs posted.",
+    "cost": 15000.00,
+    "office": {
+      "name": "Environmental Services (ES)",
+      "contact": "02 598 55 55"
+    },
+    "start_date": {
+      "$date": "2026-04-01T09:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2026-04-05T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The corner is spotless and the fence helps keep it clean.",
+        "citizen": {
+          "first_name": "Somsri",
+          "last_name": "Inthira",
+          "thai_id": "91031766778"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a241"
+    },
+    "solution_id": 59,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1dc"
+      }
+    ],
+    "details": "High-visibility speed enforcement by MLE patrols during peak hours (07:00-09:00 and 16:00-18:00) for one week.",
+    "cost": 6000.00,
+    "office": {
+      "name": "Municipal Law Enforcement (MLE)",
+      "contact": "1567"
+    },
+    "start_date": {
+      "$date": "2026-04-10T07:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2026-04-17T18:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 4,
+        "review": "The speeding issue is temporarily controlled due to the presence of patrols.",
+        "citizen": {
+          "first_name": "Narong",
+          "last_name": "Wichian",
+          "thai_id": "83011055667"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a242"
+    },
+    "solution_id": 60,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1dd"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1de"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1df"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1e0"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1e1"
+      }
+    ],
+    "details": "Full pavement restoration on the main road section (500m). Large potholes filled and sidewalk slabs re-cemented and levelled.",
+    "cost": 250000.00,
+    "office": {
+      "name": "Public Works & Infrastructure Dept (PWI)",
+      "contact": "02 123 45 67"
+    },
+    "start_date": {
+      "$date": "2026-05-01T08:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2026-06-01T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The road is smooth and safe to drive on now. Excellent PWI work.",
+        "citizen": {
+          "first_name": "Kamala",
+          "last_name": "Somboon",
+          "thai_id": "89050512345"
+        }
+      },
+      {
+        "rating": 5,
+        "review": "The old, cracked sidewalk is perfectly level. Great job.",
+        "citizen": {
+          "first_name": "Thongchai",
+          "last_name": "Saenkhot",
+          "thai_id": "85032033445"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a243"
+    },
+    "solution_id": 61,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1e2"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1e3"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1e4"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1e5"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1e6"
+      }
+    ],
+    "details": "Removal of all illegal vendor stalls and temporary structures from the public path. Warnings issued to all vendors regarding future violations. Regular enforcement patrols initiated.",
+    "cost": 8000.00,
+    "office": {
+      "name": "Municipal Law Enforcement (MLE)",
+      "contact": "1567"
+    },
+    "start_date": {
+      "$date": "2026-06-10T09:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2026-06-14T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "Finally, the path is clear! We can walk safely without obstructions.",
+        "citizen": {
+          "first_name": "Kanya",
+          "last_name": "Suwan",
+          "thai_id": "94062533445"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a244"
+    },
+    "solution_id": 62,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1e7"
+      }
+    ],
+    "details": "Traffic flow study conducted and bus stop location reviewed. Minor road marking adjustments and bus lane extension implemented to prevent blockage.",
+    "cost": 5000.00,
+    "office": {
+      "name": "Traffic & Transport Planning (TTP)",
+      "contact": "02 598 66 66"
+    },
+    "start_date": {
+      "$date": "2026-07-01T09:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2026-07-04T16:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 4,
+        "review": "Buses can now stop without blocking the entire road. Good technical solution.",
+        "citizen": {
+          "first_name": "Naree",
+          "last_name": "Suthamma",
+          "thai_id": "93022755667"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a245"
+    },
+    "solution_id": 63,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1e8"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1e9"
+      }
+    ],
+    "details": "Damaged swing set repaired and safety bolts replaced. New wooden planks installed on the park footbridge and sealed.",
+    "cost": 15000.00,
+    "office": {
+      "name": "Parks & Recreation Authority (PRA)",
+      "contact": "02 598 77 77"
+    },
+    "start_date": {
+      "$date": "2026-07-15T09:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2026-07-22T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The playground is safe again. Thank you for making these essential repairs.",
+        "citizen": {
+          "first_name": "Panya",
+          "last_name": "Chompoo",
+          "thai_id": "76110854321"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a246"
+    },
+    "solution_id": 64,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1ea"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1eb"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1ec"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1ed"
+      }
+    ],
+    "details": "Major electrical fault traced and isolated. Street lamp wiring replaced and multiple burnt-out bulbs changed.",
+    "cost": 12000.00,
+    "office": {
+      "name": "City Electrical & Lighting Division (CEL)",
+      "contact": "1130"
+    },
+    "start_date": {
+      "$date": "2026-08-01T18:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2026-08-03T10:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The whole neighborhood is lit again. Very quick and professional repair.",
+        "citizen": {
+          "first_name": "Suthep",
+          "last_name": "Petchara",
+          "thai_id": "85021578901"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a247"
+    },
+    "solution_id": 65,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1ee"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1ef"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1f0"
+      }
+    ],
+    "details": "Graffiti removed from the underpass walls and anti-graffiti sealant applied. Vandalized benches repaired and repainted.",
+    "cost": 10000.00,
+    "office": {
+      "name": "Municipal Law Enforcement (MLE)",
+      "contact": "1567"
+    },
+    "start_date": {
+      "$date": "2026-08-15T09:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2026-08-18T16:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The underpass looks clean and safe now. Good job with the restoration.",
+        "citizen": {
+          "first_name": "Wichai",
+          "last_name": "Saelee",
+          "thai_id": "78112233445"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a248"
+    },
+    "solution_id": 66,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1f1"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1f2"
+      }
+    ],
+    "details": "Major drainage infrastructure overhaul. Installation of high-capacity pump station and replacement of main storm sewer trunk line to prevent seasonal flooding.",
+    "cost": 850000.00,
+    "office": {
+      "name": "Public Works & Infrastructure Dept (PWI)",
+      "contact": "02 123 45 67"
+    },
+    "start_date": {
+      "$date": "2026-09-01T08:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2027-01-05T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The biggest problem in our area is finally solved. No flooding this year! Multi-month work paid off.",
+        "citizen": {
+          "first_name": "Araya",
+          "last_name": "Wongsa",
+          "thai_id": "79082012345"
+        }
+      },
+      {
+        "rating": 5,
+        "review": "High cost, but the quality of the new drainage system is fantastic. Worth the public money.",
+        "citizen": {
+          "first_name": "Malee",
+          "last_name": "Sriboon",
+          "thai_id": "75061400112"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a249"
+    },
+    "solution_id": 67,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1f3"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1f4"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1f5"
+      }
+    ],
+    "details": "Emergency crew dispatched to remove large, hazardous tree branch threatening power lines. Full tree inspection completed for future maintenance.",
+    "cost": 8000.00,
+    "office": {
+      "name": "Environmental Services (ES)",
+      "contact": "02 598 55 55"
+    },
+    "start_date": {
+      "$date": "2026-10-10T09:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2026-10-10T14:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "Fast and safe removal. Avoided a power outage.",
+        "citizen": {
+          "first_name": "Chantana",
+          "last_name": "Karnchanachai",
+          "thai_id": "92010145678"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a24a"
+    },
+    "solution_id": 68,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1f6"
+      }
+    ],
+    "details": "Thermoplastic repainting of all faded crosswalks at the intersection. New pedestrian warning signs installed.",
+    "cost": 14000.00,
+    "office": {
+      "name": "Traffic & Transport Planning (TTP)",
+      "contact": "02 598 66 66"
+    },
+    "start_date": {
+      "$date": "2026-11-01T21:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2026-11-03T05:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "Markings are vibrant and clear, making crossing much safer at night.",
+        "citizen": {
+          "first_name": "Sompong",
+          "last_name": "Khamdee",
+          "thai_id": "88120377889"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a24b"
+    },
+    "solution_id": 69,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1f7"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1f8"
+      }
+    ],
+    "details": "Installation of new rubberized safety surfacing on the playground. Damaged play equipment replaced with a new climbing structure.",
+    "cost": 65000.00,
+    "office": {
+      "name": "Parks & Recreation Authority (PRA)",
+      "contact": "02 598 77 77"
+    },
+    "start_date": {
+      "$date": "2026-11-20T08:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2026-12-20T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The playground is now modern and much safer for all the children. Great long-term investment.",
+        "citizen": {
+          "first_name": "Alisa",
+          "last_name": "Chaiwong",
+          "thai_id": "82110499887"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a24c"
+    },
+    "solution_id": 70,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1f9"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1fa"
+      }
+    ],
+    "details": "Damaged main electrical feeder cable for the public lighting network repaired and insulated. Street lamps reactivated.",
+    "cost": 9000.00,
+    "office": {
+      "name": "City Electrical & Lighting Division (CEL)",
+      "contact": "1130"
+    },
+    "start_date": {
+      "$date": "2027-01-15T10:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2027-01-16T16:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "Power restored quickly after the outage. Excellent reliability.",
+        "citizen": {
+          "first_name": "Patama",
+          "last_name": "Kaset",
+          "thai_id": "91051511223"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a24d"
+    },
+    "solution_id": 71,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1fb"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1fc"
+      }
+    ],
+    "details": "Illegal dumping site cleared and disinfected. Warning signs posted and surveillance increased to deter repeat offenses.",
+    "cost": 15000.00,
+    "office": {
+      "name": "Environmental Services (ES)",
+      "contact": "02 598 55 55"
+    },
+    "start_date": {
+      "$date": "2027-02-01T09:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2027-02-04T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The lot is clean now, and the surveillance is a great initiative.",
+        "citizen": {
+          "first_name": "Preeya",
+          "last_name": "Surin",
+          "thai_id": "90070123445"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a24e"
+    },
+    "solution_id": 72,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1fd"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1fe"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1ff"
+      }
+    ],
+    "details": "Comprehensive road pavement and sidewalk upgrade project (1.2 km section). Includes new curbs, drainage inlets, and asphalt overlay.",
+    "cost": 750000.00,
+    "office": {
+      "name": "Public Works & Infrastructure Dept (PWI)",
+      "contact": "02 123 45 67"
+    },
+    "start_date": {
+      "$date": "2027-03-01T08:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2027-06-05T17:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The road is fantastic. The biggest improvement we've seen in years.",
+        "citizen": {
+          "first_name": "Boonruen",
+          "last_name": "Sakorn",
+          "thai_id": "84091133445"
+        }
+      },
+      {
+        "rating": 5,
+        "review": "The new drainage is excellent, no standing water during the rainy season now.",
+        "citizen": {
+          "first_name": "Chaiyot",
+          "last_name": "Wichian",
+          "thai_id": "77012344556"
+        }
+      },
+      {
+        "rating": 4,
+        "review": "A huge, successful project. The detour was worth the long-term result.",
+        "citizen": {
+          "first_name": "Malee",
+          "last_name": "Sriboon",
+          "thai_id": "75061400112"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a24f"
+    },
+    "solution_id": 73,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1e0"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1e1"
+      }
+    ],
+    "details": "Traffic light timing adjusted for synchronization with the new PWI road section, improving overall traffic flow.",
+    "cost": 2500.00,
+    "office": {
+      "name": "Traffic & Transport Planning (TTP)",
+      "contact": "02 598 66 66"
+    },
+    "start_date": {
+      "$date": "2027-06-20T10:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2027-06-22T15:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 4,
+        "review": "Traffic flow is much smoother since the road opened. Good timing alignment.",
+        "citizen": {
+          "first_name": "Veera",
+          "last_name": "Phromma",
+          "thai_id": "70100588990"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a250"
+    },
+    "solution_id": 74,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1e2"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1e3"
+      }
+    ],
+    "details": "Damaged concrete benches replaced with anti-vandalism composite material benches. New ornamental plants added to the area.",
+    "cost": 15000.00,
+    "office": {
+      "name": "Parks & Recreation Authority (PRA)",
+      "contact": "02 598 77 77"
+    },
+    "start_date": {
+      "$date": "2027-07-01T09:00:00.000Z"
+    },
+    "finish_date": {
+      "$date": "2027-07-08T16:00:00.000Z"
+    },
+    "feedback": [
+      {
+        "rating": 5,
+        "review": "The park looks clean and well-maintained. The new benches are very durable.",
+        "citizen": {
+          "first_name": "Pichai",
+          "last_name": "Saenkhot",
+          "thai_id": "76081233445"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65e68372a5b81a2f98f4a251"
+    },
+    "solution_id": 75,
+    "issues": [
+      {
+        "$oid": "65e68371a5b81a2f98f4a1e4"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1e5"
+      },
+      {
+        "$oid": "65e68371a5b81a2f98f4a1e6"
+      }
+    ],
+    "details": "Permanent Municipal Law Enforcement presence established in the area to prevent illegal vending and loitering. Ongoing patrol schedule set.",
+    "cost": 0.00,
+    "office": {
+      "name": "Municipal Law Enforcement (MLE)",
+      "contact": "1567"
+    },
+    "start_date": {
+      "$date": "2027-08-01T09:00:00.000Z"
+    },
+    "finish_date": null,
+    "feedback": []
+  }
+]
